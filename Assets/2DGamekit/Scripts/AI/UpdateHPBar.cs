@@ -17,7 +17,7 @@ public class UpdateHPBar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        newValue = (float)damageable.CurrentHealth / 50;
+        newValue = (float)damageable.CurrentHealth / damageable.startingHealth;
         healthBar.localScale = new Vector3(newValue, 1, 1);
         if (newValue == 0)
         {

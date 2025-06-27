@@ -19,6 +19,9 @@ public class PaleDragonAI : MonoBehaviour
     public Hitbox clawSweepHitboxL;
     public Hitbox clawSweepHitboxR;
     public Hitbox divebombHitbox;
+    public UpdateHPBar updateHPBar;
+
+    public bool isAggro;
 
 
     // TRUE if sprite’s native direction is LEFT
@@ -49,7 +52,9 @@ public class PaleDragonAI : MonoBehaviour
 
     IEnumerator BossAI()
     {
-        yield return new WaitForSeconds(5f); // Optional startup delay
+        
+        yield return new WaitUntil(() => isAggro); // Optional startup delay
+        updateHPBar.Enable();
         yield return StartCoroutine(Divebomb());
         // yield return new WaitUntil(() => isAggro);
         // aggro.Invoke();
