@@ -20,7 +20,7 @@ public class PaleDragonAI : MonoBehaviour
     public Hitbox clawSweepHitboxR;
     public Hitbox divebombHitbox;
     public UpdateHPBar updateHPBar;
-
+    private Coroutine coroutine;
     public bool isAggro;
 
 
@@ -31,7 +31,7 @@ public class PaleDragonAI : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
-        StartCoroutine(BossAI());
+        coroutine = StartCoroutine(BossAI());
     }
     void Chase()
     {
@@ -42,6 +42,18 @@ public class PaleDragonAI : MonoBehaviour
 
         // If the sprite was drawn facing left natively, we XOR the logic:
         spriteRenderer.flipX = nativeFacesLeft ? !faceLeft : faceLeft;
+    }
+
+    IEnumerator OnDeath()
+    {
+        yield return new WaitUntil(() => damageable.CurrentHealth <= 0);
+        StopCoroutine(coroutine);
+        spriteRenderer.sprite = idle;
+        divebombHitbox.isHitboxActive = false;
+        clawSweepHitboxL.isHitboxActive = false;
+        clawSweepHitboxR.isHitboxActive = false;
+        tailJabHitboxL.isHitboxActive = false;
+        tailJabHitboxR.isHitboxActive = false;
     }
 
     // Update is called once per frame
