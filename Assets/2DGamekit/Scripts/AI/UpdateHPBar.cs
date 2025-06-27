@@ -7,10 +7,11 @@ public class UpdateHPBar : MonoBehaviour
     public RectTransform healthBar;
     public RectTransform healthFrame;
     public Damageable damageable;
+    public GameObject panel;
     private float newValue;
     void Start()
     {
-
+        Disable();
     }
 
     // Update is called once per frame
@@ -18,13 +19,22 @@ public class UpdateHPBar : MonoBehaviour
     {
         newValue = (float)damageable.CurrentHealth / 50;
         healthBar.localScale = new Vector3(newValue, 1, 1);
-        UpdateDelta();
+        if (newValue == 0)
+        {
+            Disable();
+        }
+        // UpdateDelta();
     }
 
-    IEnumerator UpdateDelta()
+    public void Enable()
     {
-        Debug.Log("Her");
-        yield return new WaitForSeconds(1);
-        healthFrame.localScale = new Vector3(newValue,1,1);
+        panel.SetActive(true);
     }
+
+    public void Disable()
+    {
+        panel.SetActive(false);
+    }
+
+
 }

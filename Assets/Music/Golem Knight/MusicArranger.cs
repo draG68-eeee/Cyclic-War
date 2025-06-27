@@ -21,7 +21,10 @@ public class MusicArranger : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if (damageable.CurrentHealth == 0)
+        {
+            End();
+        }
     }
 
     public IEnumerator TransitionPhases()
@@ -74,19 +77,22 @@ public class MusicArranger : MonoBehaviour
         }
         // yield return new WaitForSeconds(5f); // Intro: 5 seconds
 
-            // Phase 1 (health > 10)
-            while (damageable.CurrentHealth > 25)
-            {
-                yield return StartCoroutine(golemKnightMusicPlayer.PlayMusic(2)); // Phase 1 music
-                                                                                  // yield return new WaitForSeconds(17f); // Phase 1 duration
-            }
+        // Phase 1 (health > 10)
+        while (damageable.CurrentHealth > 25)
+        {
+            yield return StartCoroutine(golemKnightMusicPlayer.PlayMusic(2)); // Phase 1 music
+                                                                              // yield return new WaitForSeconds(17f); // Phase 1 duration
+        }
 
         // Final phase (health <= 10)
         while (damageable.CurrentHealth <= 25)
         {
             yield return StartCoroutine(golemKnightMusicPlayer.PlayMusic(3)); // Final phase music
-            // yield return new WaitForSeconds(24f); // Final phase duration
+                                                                              // yield return new WaitForSeconds(24f); // Final phase duration
+            
         }
+        
+
     }
     
 

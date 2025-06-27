@@ -31,6 +31,8 @@ public class EnergyGauge : MonoBehaviour
         // yield return ResetGauge();
     }
 
+    private Coroutine resetCoroutine = null;
+
     void UpdateGauge()
     {
         float scaleX = Mathf.Clamp01((float)energy / 100f);
@@ -39,20 +41,32 @@ public class EnergyGauge : MonoBehaviour
         if (energy == 100 && fullGauge != null)
         {
             image.sprite = fullGauge;
-            StartCoroutine(ResetGauge());
+            if (resetCoroutine == null)
+            {
+                resetCoroutine = StartCoroutine(ResetGauge());
+            }
         }
         else
         {
             image.sprite = defaultGauge;
+            // If gauge is not full, cancel any running reset coroutine
+            if (resetCoroutine != null)
+            {
+                StopCoroutine(resetCoroutine);
+                resetCoroutine = null;
+            }
         }
     }
     IEnumerator ResetGauge()
     {
-        if (image.sprite == fullGauge)
+        // Only reset if still full after the wait
+        yield return new WaitForSeconds(10);
+        if (energy == 100)
         {
-            yield return new WaitForSeconds(10);
             energy = 0;
+            UpdateGauge();
         }
+        resetCoroutine = null;
     }
 
     public void UpdateEnergy(int value)

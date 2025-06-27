@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 using Gamekit2D;
 public class GolemKnightAI : MonoBehaviour
 {
+    private Coroutine BossAICoroutine;
     public GameObject player;
     private Rigidbody2D rb;
 
@@ -21,6 +22,7 @@ public class GolemKnightAI : MonoBehaviour
     public Hitbox overheadHitboxR;
     public Hitbox overheadHitboxL;
     public bool isAggro = false;
+    public UpdateHPBar updateHPBar;
     private AudioSource audioSource;
     private Coroutine runAnimCoroutine;
     private bool isChasing = false;
@@ -38,7 +40,7 @@ public class GolemKnightAI : MonoBehaviour
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        StartCoroutine(BossAI());
+        BossAICoroutine = StartCoroutine(BossAI());
         audioSource = GetComponent<AudioSource>();
     }
 
@@ -62,6 +64,11 @@ public class GolemKnightAI : MonoBehaviour
             string currentSceneName = SceneManager.GetActiveScene().name;
             SceneManager.LoadScene(currentSceneName);
         }
+        if (selfDamageable.CurrentHealth <= 0)
+        {
+            StopCoroutine(BossAICoroutine);
+            spriteRenderer.sprite = idleSprite;
+        }
     }
     IEnumerator RunAnimation()
     {
@@ -78,6 +85,7 @@ public class GolemKnightAI : MonoBehaviour
     {
         yield return new WaitForSeconds(1f); // Optional startup delay
         yield return new WaitUntil(() => isAggro);
+        updateHPBar.Enable();
         aggro.Invoke();
         while (damageable.CurrentHealth > 0)
         {
