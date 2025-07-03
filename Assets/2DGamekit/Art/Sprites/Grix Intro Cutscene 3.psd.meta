@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: b026afaac09da4c428feb7c48bacc326
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 923312444623428739
+    second: Grix Intro Cutscene 3_0
+  - first:
+      213: 8318605359903213492
+    second: Grix Intro Cutscene 3_1
+  - first:
+      213: 2320237932219485672
+    second: Grix Intro Cutscene 3_2
+  - first:
+      213: -7658675642706229329
+    second: Grix Intro Cutscene 3_3
+  - first:
+      213: -7274565652920021497
+    second: Grix Intro Cutscene 3_4
+  - first:
+      213: 2681392025816915430
+    second: Grix Intro Cutscene 3_5
+  - first:
+      213: -7988165569241434981
+    second: Grix Intro Cutscene 3_6
+  - first:
+      213: 1454592527579286338
+    second: Grix Intro Cutscene 3_7
+  - first:
+      213: -2496827396910112278
+    second: Grix Intro Cutscene 3_8
+  - first:
+      213: 3674923979561529784
+    second: Grix Intro Cutscene 3_9
+  - first:
+      213: 6371390629578615925
+    second: Grix Intro Cutscene 3_10
+  - first:
+      213: -6510636324634192678
+    second: Grix Intro Cutscene 3_11
+  - first:
+      213: -8352806185055826041
+    second: Grix Intro Cutscene 3_12
+  - first:
+      213: 3347679817228692541
+    second: Grix Intro Cutscene 3_13
+  - first:
+      213: -6157982261096625464
+    second: Grix Intro Cutscene 3_14
+  - first:
+      213: 7507267590618994495
+    second: Grix Intro Cutscene 3_15
+  - first:
+      213: -4322838218026063013
+    second: Grix Intro Cutscene 3_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 683
+        width: 228
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c1a76c6c340dc00800000000000000
+      internalID: 923312444623428739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 714
+        width: 134
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b701bf308f917370800000000000000
+      internalID: 8318605359903213492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 702
+        width: 126
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed44503b14233020800000000000000
+      internalID: 2320237932219485672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 477
+        width: 179
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa70f82941be6b590800000000000000
+      internalID: -7658675642706229329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 461
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec17ab41d8b0b90800000000000000
+      internalID: -7274565652920021497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 471
+        width: 70
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edd16247d7363520800000000000000
+      internalID: 2681392025816915430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 437
+        width: 111
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94bb56ecb5542190800000000000000
+      internalID: -7988165569241434981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 430
+        width: 147
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b0d437230cf2410800000000000000
+      internalID: 1454592527579286338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_8
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 392
+        width: 125
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1a5b516bc795dd0800000000000000
+      internalID: -2496827396910112278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 285
+        width: 97
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1745a83e3fff230800000000000000
+      internalID: 3674923979561529784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 428
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c2941450abb6850800000000000000
+      internalID: 6371390629578615925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 259
+        width: 87
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad49c60f1c295a5a0800000000000000
+      internalID: -6510636324634192678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 275
+        width: 37
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fcf0e970fd41c80800000000000000
+      internalID: -8352806185055826041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 256
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c29a79e09557e20800000000000000
+      internalID: 3347679817228692541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 257
+        width: 34
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cacd2a82c37a8aa0800000000000000
+      internalID: -6157982261096625464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_15
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 212
+        width: 106
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37d5a4391c2f2860800000000000000
+      internalID: 7507267590618994495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Intro Cutscene 3_16
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 195
+        width: 150
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5be2194b813204c0800000000000000
+      internalID: -4322838218026063013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grix Intro Cutscene 3_0: 923312444623428739
+      Grix Intro Cutscene 3_1: 8318605359903213492
+      Grix Intro Cutscene 3_10: 6371390629578615925
+      Grix Intro Cutscene 3_11: -6510636324634192678
+      Grix Intro Cutscene 3_12: -8352806185055826041
+      Grix Intro Cutscene 3_13: 3347679817228692541
+      Grix Intro Cutscene 3_14: -6157982261096625464
+      Grix Intro Cutscene 3_15: 7507267590618994495
+      Grix Intro Cutscene 3_16: -4322838218026063013
+      Grix Intro Cutscene 3_2: 2320237932219485672
+      Grix Intro Cutscene 3_3: -7658675642706229329
+      Grix Intro Cutscene 3_4: -7274565652920021497
+      Grix Intro Cutscene 3_5: 2681392025816915430
+      Grix Intro Cutscene 3_6: -7988165569241434981
+      Grix Intro Cutscene 3_7: 1454592527579286338
+      Grix Intro Cutscene 3_8: -2496827396910112278
+      Grix Intro Cutscene 3_9: 3674923979561529784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

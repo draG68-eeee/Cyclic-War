@@ -19,7 +19,7 @@ public class Hitbox : MonoBehaviour
         Parry parry = other.gameObject.GetComponent<Parry>();
         if (parry != null && parry.isInvincible)
         {
-            Debug.Log("YIPPIE I HIT JOHN DA—wait... PINNOCHIO IS THAT YOU!?");
+            // Debug.Log("YIPPIE I HIT JOHN DA—wait... PINNOCHIO IS THAT YOU!?");
             energyGauge.UpdateEnergy(25);
         }
         else
@@ -27,10 +27,10 @@ public class Hitbox : MonoBehaviour
             Damageable damageable = other.gameObject.GetComponent<Damageable>();
             if (damageable != null)
             {
-                if (damageValue == 1)
-                    Debug.Log("YIPPIE I HIT JOHN DARK SOULS!");
-                else if (damageValue == 2)
-                    Debug.Log("YIPPIE I GAVE JOHN DARK SOULS A CONCUSSION! HE DONT BE GETTING UP ANYTIME SOON!");
+                // if (damageValue == 1)
+                //     // Debug.Log("YIPPIE I HIT JOHN DARK SOULS!");
+                // else if (damageValue == 2)
+                //     // Debug.Log("YIPPIE I GAVE JOHN DARK SOULS A CONCUSSION! HE DONT BE GETTING UP ANYTIME SOON!");
 
                 damageable.SetHealth(damageable.CurrentHealth - damageValue);
                 Debug.Log($"Player Health: {damageable.CurrentHealth}");

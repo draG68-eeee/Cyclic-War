@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: a3b844dd842604e4c8086591fe76e84d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8015354933010071343
+    second: Grix Title Card_0
+  - first:
+      213: -5854232594377041690
+    second: Grix Title Card_1
+  - first:
+      213: -657606233044243854
+    second: Grix Title Card_2
+  - first:
+      213: -7946504641803675395
+    second: Grix Title Card_3
+  - first:
+      213: 908104894617181036
+    second: Grix Title Card_4
+  - first:
+      213: -597421797760881186
+    second: Grix Title Card_5
+  - first:
+      213: 432627932784094959
+    second: Grix Title Card_6
+  - first:
+      213: 7861848344583867132
+    second: Grix Title Card_7
+  - first:
+      213: 8051100096555455960
+    second: Grix Title Card_8
+  - first:
+      213: -8730171593948458556
+    second: Grix Title Card_9
+  - first:
+      213: 2416132770972056685
+    second: Grix Title Card_10
+  - first:
+      213: -2577557511712170448
+    second: Grix Title Card_11
+  - first:
+      213: 4802109400932628601
+    second: Grix Title Card_12
+  - first:
+      213: -3852166529145093534
+    second: Grix Title Card_13
+  - first:
+      213: -5310192527837575925
+    second: Grix Title Card_14
+  - first:
+      213: -4061652586727515668
+    second: Grix Title Card_15
+  - first:
+      213: -7447359465911618487
+    second: Grix Title Card_16
+  - first:
+      213: 6554343730559444140
+    second: Grix Title Card_17
+  - first:
+      213: -6396276588478469065
+    second: Grix Title Card_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grix Title Card_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 507
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d08245d72db3c090800000000000000
+      internalID: -8015354933010071343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 542
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e894a3f87691cea0800000000000000
+      internalID: -5854232594377041690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 496
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aa05d7d96bfd6f0800000000000000
+      internalID: -657606233044243854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 499
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df89c43712858b190800000000000000
+      internalID: -7946504641803675395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 499
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b537e179c3a9c00800000000000000
+      internalID: 908104894617181036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 497
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd236b4a0885b7f0800000000000000
+      internalID: -597421797760881186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 502
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feee18d00d0010600800000000000000
+      internalID: 432627932784094959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 493
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa0ae06a65ea1d60800000000000000
+      internalID: 7861848344583867132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_8
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 492
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d51d4a91e04bbf60800000000000000
+      internalID: 8051100096555455960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_9
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 504
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c11f72903338d680800000000000000
+      internalID: -8730171593948458556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_10
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 495
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c38f734f3d78120800000000000000
+      internalID: 2416132770972056685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 504
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e914e791daa3cd0800000000000000
+      internalID: -2577557511712170448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 503
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9783727be0584a240800000000000000
+      internalID: 4802109400932628601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 493
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26248ae83fa5a8ac0800000000000000
+      internalID: -3852166529145093534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 499
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05ce41d7086e46b0800000000000000
+      internalID: -5310192527837575925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 503
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce95f0fed7c12a7c0800000000000000
+      internalID: -4061652586727515668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_16
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 501
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944f1b7060aa5a890800000000000000
+      internalID: -7447359465911618487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_17
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 500
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4edc385e4b5fa50800000000000000
+      internalID: 6554343730559444140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grix Title Card_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 499
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ce79ae45cdb37a0800000000000000
+      internalID: -6396276588478469065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grix Title Card_0: -8015354933010071343
+      Grix Title Card_1: -5854232594377041690
+      Grix Title Card_10: 2416132770972056685
+      Grix Title Card_11: -2577557511712170448
+      Grix Title Card_12: 4802109400932628601
+      Grix Title Card_13: -3852166529145093534
+      Grix Title Card_14: -5310192527837575925
+      Grix Title Card_15: -4061652586727515668
+      Grix Title Card_16: -7447359465911618487
+      Grix Title Card_17: 6554343730559444140
+      Grix Title Card_18: -6396276588478469065
+      Grix Title Card_2: -657606233044243854
+      Grix Title Card_3: -7946504641803675395
+      Grix Title Card_4: 908104894617181036
+      Grix Title Card_5: -597421797760881186
+      Grix Title Card_6: 432627932784094959
+      Grix Title Card_7: 7861848344583867132
+      Grix Title Card_8: 8051100096555455960
+      Grix Title Card_9: -8730171593948458556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

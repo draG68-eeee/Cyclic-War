@@ -8,7 +8,7 @@ public class Parry : MonoBehaviour
 
     [Header("Parry Settings")]
     public float invincibilityTime = 0.2f;
-    public float parryCooldown = 0.5f;
+    public float parryCooldown = 0.3f;
 
     void Update()
     {
@@ -22,16 +22,16 @@ public class Parry : MonoBehaviour
     {
         canParry = false;
         isInvincible = true;
-        Debug.Log("Parry active! Player is invincible.");
+        // Debug.Log("Parry active! Player is invincible.");
 
         yield return new WaitForSeconds(invincibilityTime);
 
         isInvincible = false;
-        Debug.Log("Parry ended. Player vulnerable.");
+        // Debug.Log("Parry ended. Player vulnerable.");
 
         yield return new WaitForSeconds(parryCooldown - invincibilityTime);
 
         canParry = true;
-        Debug.Log("Parry ready again.");
+        // Debug.Log("Parry ready again.");
     }
 }

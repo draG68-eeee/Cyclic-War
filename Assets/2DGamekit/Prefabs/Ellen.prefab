@@ -381,7 +381,7 @@ MonoBehaviour:
     controllerButton: 4
     m_Enabled: 1
   MeleeAttack:
-    key: 107
+    key: 323
     controllerButton: 3
     m_Enabled: 0
   RangedAttack:

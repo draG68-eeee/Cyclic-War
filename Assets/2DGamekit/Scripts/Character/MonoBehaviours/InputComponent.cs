@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -127,9 +127,19 @@ namespace Gamekit2D
                 {
                     if (fixedUpdateHappened)
                     {
-                        Down = Input.GetKeyDown(key);
-                        Held = Input.GetKey(key);
-                        Up = Input.GetKeyUp(key);
+                        if (key == KeyCode.Mouse0 || key == KeyCode.Mouse1 || key == KeyCode.Mouse2)
+{
+    int mouseButton = key == KeyCode.Mouse0 ? 0 : (key == KeyCode.Mouse1 ? 1 : 2);
+    Down = Input.GetMouseButtonDown(mouseButton);
+    Held = Input.GetMouseButton(mouseButton);
+    Up = Input.GetMouseButtonUp(mouseButton);
+}
+else
+{
+    Down = Input.GetKeyDown(key);
+    Held = Input.GetKey(key);
+    Up = Input.GetKeyUp(key);
+}
 
                         m_AfterFixedUpdateDown = Down;
                         m_AfterFixedUpdateHeld = Held;
@@ -137,13 +147,22 @@ namespace Gamekit2D
                     }
                     else
                     {
-                        Down = Input.GetKeyDown(key) || m_AfterFixedUpdateDown;
-                        Held = Input.GetKey(key) || m_AfterFixedUpdateHeld;
-                        Up = Input.GetKeyUp(key) || m_AfterFixedUpdateUp;
-
-                        m_AfterFixedUpdateDown |= Down;
-                        m_AfterFixedUpdateHeld |= Held;
-                        m_AfterFixedUpdateUp |= Up;
+                        if (key == KeyCode.Mouse0 || key == KeyCode.Mouse1 || key == KeyCode.Mouse2)
+{
+    int mouseButton = key == KeyCode.Mouse0 ? 0 : (key == KeyCode.Mouse1 ? 1 : 2);
+    Down = Input.GetMouseButtonDown(mouseButton) || m_AfterFixedUpdateDown;
+    Held = Input.GetMouseButton(mouseButton) || m_AfterFixedUpdateHeld;
+    Up = Input.GetMouseButtonUp(mouseButton) || m_AfterFixedUpdateUp;
+}
+else
+{
+    Down = Input.GetKeyDown(key) || m_AfterFixedUpdateDown;
+    Held = Input.GetKey(key) || m_AfterFixedUpdateHeld;
+    Up = Input.GetKeyUp(key) || m_AfterFixedUpdateUp;
+}
+m_AfterFixedUpdateDown |= Down;
+m_AfterFixedUpdateHeld |= Held;
+m_AfterFixedUpdateUp |= Up;
                     }
                 }
             }

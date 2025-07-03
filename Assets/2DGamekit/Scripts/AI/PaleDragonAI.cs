@@ -21,6 +21,7 @@ public class PaleDragonAI : MonoBehaviour
     public Hitbox divebombHitbox;
     public UpdateHPBar updateHPBar;
     private Coroutine coroutine;
+    public AudioSource roar;
     public bool isAggro;
 
 
@@ -130,6 +131,7 @@ public class PaleDragonAI : MonoBehaviour
         Vector2 flightDirection = new Vector2(-dirToPlayer.x, 3);
         rb.gravityScale = 0;
         rb.linearVelocity = flightDirection;
+        roar.Play();
         yield return new WaitForSeconds(3);
         rb.linearVelocity = Vector2.zero;
         spriteRenderer.sprite = diveBombSprites[1];

@@ -52,6 +52,8 @@ namespace Gamekit2D
             DisableInvulnerability();
         }
 
+        
+
         void OnDisable()
         {
             PersistentDataManager.UnregisterPersister(this);
@@ -68,6 +70,7 @@ namespace Gamekit2D
                     m_Invulnerable = false;
                 }
             }
+            // Debug.Log(this.CurrentHealth);
         }
 
         public void EnableInvulnerability(bool ignoreTimer = false)
