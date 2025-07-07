@@ -6,10 +6,12 @@ public class Hitbox : MonoBehaviour
     private bool hasHit = false;
     public int damageValue;
     public EnergyGauge energyGauge;
+    public GameObject energyGaugeUI;
 
     void Start()
     {
-        // energyGauge = energyGauge.Find("Energy Gauge");
+        energyGaugeUI = GameObject.Find("EnergyGauge");
+        energyGauge = energyGaugeUI.GetComponent<EnergyGauge>();
     }
     void OnTriggerStay2D(Collider2D other)
     {

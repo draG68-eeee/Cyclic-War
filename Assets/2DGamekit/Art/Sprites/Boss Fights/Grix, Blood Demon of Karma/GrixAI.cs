@@ -8,9 +8,11 @@ public class GrixAI : MonoBehaviour
     public Sprite[] cutscene;
     public Image specialDialogue;
     public Sprite idle;
+
     public Sprite[] crossCombo;
     public Sprite[] dashSlash;
     public Sprite[] scytheCombo;
+    public Sprite[] scytheThrow;
     public SpriteRenderer spriteRenderer;
     public GameObject player;
 
@@ -25,7 +27,8 @@ public class GrixAI : MonoBehaviour
     public UpdateHPBar updateHPBar;
     public Damageable damageable;
     public bool isAggro;
-public GrixMusicPlayer musicPlayer; // Reference to the music player
+    public GameObject FlamingScythe;
+    public GrixMusicPlayer musicPlayer; // Reference to the music player
     void Start()
     {
         coroutine = StartCoroutine(BossAI());
@@ -76,7 +79,7 @@ public GrixMusicPlayer musicPlayer; // Reference to the music player
             yield return new WaitUntil(() => !musicPlayer.IsPlaying());
             musicPlayer.PlayPhase1();
         }
-        
+
     }
 
     IEnumerator BossAI()
@@ -111,18 +114,6 @@ public GrixMusicPlayer musicPlayer; // Reference to the music player
 
             if (damageable.CurrentHealth > (int)damageable.startingHealth / 2)
             {
-                int value = Random.Range(1, 3);
-                if (value == 1)
-                {
-                    yield return CrossCombo();
-                }
-                else if (value == 2)
-                {
-                    yield return Dash();
-                }
-            }
-            else
-            {
                 int value = Random.Range(1, 4);
                 if (value == 1)
                 {
@@ -134,7 +125,27 @@ public GrixMusicPlayer musicPlayer; // Reference to the music player
                 }
                 else if (value == 3)
                 {
+                    yield return ScytheThrow();
+                }
+            }
+            else
+            {
+                int value = Random.Range(1, 5);
+                if (value == 1)
+                {
+                    yield return CrossCombo();
+                }
+                else if (value == 2)
+                {
+                    yield return Dash();
+                }
+                else if (value == 3)
+                {
                     yield return ScytheCombo();
+                }
+                 else if (value == 4)
+                {
+                    yield return ScytheThrow();
                 }
             }
         }
@@ -198,7 +209,20 @@ public GrixMusicPlayer musicPlayer; // Reference to the music player
         Vector3 direction = (player.transform.position - transform.position).normalized;
         spriteRenderer.flipX = direction.x < 0;
     }
-
+    void TeleportFarFromPlayer()
+    {
+        int number = Random.Range(1, 3);
+        if (number == 1)
+        {
+            transform.position = new Vector2(player.transform.position.x - 6, player.transform.position.y + 3);
+        }
+        else if (number == 2)
+        {
+            transform.position = new Vector2(player.transform.position.x + 6, player.transform.position.y + 3);
+        }
+        Vector3 direction = (player.transform.position - transform.position).normalized;
+        spriteRenderer.flipX = direction.x < 0;
+    }
 
     IEnumerator CrossCombo()
     {
@@ -289,4 +313,15 @@ public GrixMusicPlayer musicPlayer; // Reference to the music player
         yield return new WaitForSeconds(3);
         spriteRenderer.sprite = idle;
     }
+
+    IEnumerator ScytheThrow()
+    {
+        // TeleportBehindPlayer();
+        TeleportFarFromPlayer();
+        spriteRenderer.sprite = scytheThrow[0];
+        yield return new WaitForSeconds(1);
+        spriteRenderer.sprite = scytheThrow[1];
+        yield return new WaitForSeconds(0.3f);
+        Instantiate(FlamingScythe, transform.position, transform.rotation);
+    }  
 }
