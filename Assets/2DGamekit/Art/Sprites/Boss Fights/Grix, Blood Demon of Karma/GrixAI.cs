@@ -13,6 +13,7 @@ public class GrixAI : MonoBehaviour
     public Sprite[] dashSlash;
     public Sprite[] scytheCombo;
     public Sprite[] scytheThrow;
+    public Sprite[] flameWallAnimation;
     public SpriteRenderer spriteRenderer;
     public GameObject player;
 
@@ -27,7 +28,9 @@ public class GrixAI : MonoBehaviour
     public UpdateHPBar updateHPBar;
     public Damageable damageable;
     public bool isAggro;
+    // Environmental hazards
     public GameObject FlamingScythe;
+    public GameObject WallOfFlames;
     public GrixMusicPlayer musicPlayer; // Reference to the music player
     void Start()
     {
@@ -114,7 +117,7 @@ public class GrixAI : MonoBehaviour
 
             if (damageable.CurrentHealth > (int)damageable.startingHealth / 2)
             {
-                int value = Random.Range(1, 4);
+                int value = Random.Range(1, 5);
                 if (value == 1)
                 {
                     yield return CrossCombo();
@@ -127,10 +130,14 @@ public class GrixAI : MonoBehaviour
                 {
                     yield return ScytheThrow();
                 }
+                else if (value == 4)
+                {
+                    yield return FlameWallCast();
+                }
             }
             else
             {
-                int value = Random.Range(1, 5);
+                int value = Random.Range(1, 6);
                 if (value == 1)
                 {
                     yield return CrossCombo();
@@ -143,9 +150,13 @@ public class GrixAI : MonoBehaviour
                 {
                     yield return ScytheCombo();
                 }
-                 else if (value == 4)
+                else if (value == 4)
                 {
                     yield return ScytheThrow();
+                }
+                else if (value == 5)
+                {
+                    yield return FlameWallCast();
                 }
             }
         }
@@ -209,16 +220,16 @@ public class GrixAI : MonoBehaviour
         Vector3 direction = (player.transform.position - transform.position).normalized;
         spriteRenderer.flipX = direction.x < 0;
     }
-    void TeleportFarFromPlayer()
+    void TeleportFromPlayer(float value)
     {
         int number = Random.Range(1, 3);
         if (number == 1)
         {
-            transform.position = new Vector2(player.transform.position.x - 6, player.transform.position.y + 3);
+            transform.position = new Vector2(player.transform.position.x - value, player.transform.position.y + 3);
         }
         else if (number == 2)
         {
-            transform.position = new Vector2(player.transform.position.x + 6, player.transform.position.y + 3);
+            transform.position = new Vector2(player.transform.position.x + value, player.transform.position.y + 3);
         }
         Vector3 direction = (player.transform.position - transform.position).normalized;
         spriteRenderer.flipX = direction.x < 0;
@@ -317,11 +328,24 @@ public class GrixAI : MonoBehaviour
     IEnumerator ScytheThrow()
     {
         // TeleportBehindPlayer();
-        TeleportFarFromPlayer();
+        TeleportFromPlayer(6);
         spriteRenderer.sprite = scytheThrow[0];
         yield return new WaitForSeconds(1);
         spriteRenderer.sprite = scytheThrow[1];
         yield return new WaitForSeconds(0.3f);
         Instantiate(FlamingScythe, transform.position, transform.rotation);
-    }  
+        yield return new WaitForSeconds(1);
+    }
+
+    IEnumerator FlameWallCast()
+    {
+        TeleportFromPlayer(11);
+        spriteRenderer.sprite = flameWallAnimation[0];
+        yield return new WaitForSeconds(2);
+        spriteRenderer.sprite = flameWallAnimation[1];
+        Instantiate(WallOfFlames, new Vector2(transform.position.x + 10, transform.position.y - 1.5f), transform.rotation);
+        Instantiate(WallOfFlames, new Vector2(transform.position.x - 10, transform.position.y - 1.5f), transform.rotation);
+        yield return new WaitForSeconds(2);
+        spriteRenderer.sprite = idle;
+    }
 }
