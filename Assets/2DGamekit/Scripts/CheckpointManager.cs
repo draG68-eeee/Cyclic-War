@@ -10,6 +10,8 @@ public class CheckpointManager : MonoBehaviour
     public List<string> visitedCheckpoints = new List<string>();
     private const string SaveKey = "BonfireCheckpoint_Save";
     private const string VisitedKey = "BonfireCheckpoint_Visited";
+    private int SelectedSlot => PlayerPrefs.GetInt("SelectedSaveSlot", 0);
+    private string GetSaveKey(string key) => $"SaveSlot_{SelectedSlot}_{key}";
 
     private void Awake()
     {
@@ -61,21 +63,21 @@ public class CheckpointManager : MonoBehaviour
     {
         if (currentCheckpoint != null)
         {
-            PlayerPrefs.SetString(SaveKey, currentCheckpoint.checkpointID);
+            PlayerPrefs.SetString(GetSaveKey(SaveKey), currentCheckpoint.checkpointID);
         }
-        PlayerPrefs.SetString(VisitedKey, string.Join(",", visitedCheckpoints));
+        PlayerPrefs.SetString(GetSaveKey(VisitedKey), string.Join(",", visitedCheckpoints));
         PlayerPrefs.Save();
     }
 
     public void LoadCheckpoint()
     {
         visitedCheckpoints.Clear();
-        string visited = PlayerPrefs.GetString(VisitedKey, "");
+        string visited = PlayerPrefs.GetString(GetSaveKey(VisitedKey), "");
         if (!string.IsNullOrEmpty(visited))
         {
             visitedCheckpoints.AddRange(visited.Split(','));
         }
-        string checkpointID = PlayerPrefs.GetString(SaveKey, "");
+        string checkpointID = PlayerPrefs.GetString(GetSaveKey(SaveKey), "");
         if (!string.IsNullOrEmpty(checkpointID))
         {
             BonfireCheckpoint[] all = FindObjectsOfType<BonfireCheckpoint>();
@@ -90,3 +92,4 @@ public class CheckpointManager : MonoBehaviour
         }
     }
 }
+

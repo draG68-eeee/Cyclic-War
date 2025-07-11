@@ -32,6 +32,7 @@ public class GrixAI : MonoBehaviour
     public GameObject FlamingScythe;
     public GameObject WallOfFlames;
     public GrixMusicPlayer musicPlayer; // Reference to the music player
+    public AudioClip outro;
     void Start()
     {
         coroutine = StartCoroutine(BossAI());
@@ -61,6 +62,9 @@ public class GrixAI : MonoBehaviour
         if (musicPlayer != null && musicPlayer.audioSource != null)
         {
             musicPlayer.audioSource.Stop();
+            musicPlayer.audioSource.clip = outro;
+            musicPlayer.audioSource.Play();
+            rb.linearVelocity = new Vector2(0, 1);
         }
     }
 
