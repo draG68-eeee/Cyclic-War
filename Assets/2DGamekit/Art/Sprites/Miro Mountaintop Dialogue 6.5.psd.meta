@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: bf9d61f3addef4472a0c9141163ddf18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5670914987443827135
+    second: Miro Mountaintop Dialogue 6.5_0
+  - first:
+      213: 1968586441733408932
+    second: Miro Mountaintop Dialogue 6.5_1
+  - first:
+      213: 1463781155826448311
+    second: Miro Mountaintop Dialogue 6.5_2
+  - first:
+      213: -1221044839030472478
+    second: Miro Mountaintop Dialogue 6.5_3
+  - first:
+      213: -2943644225614753478
+    second: Miro Mountaintop Dialogue 6.5_4
+  - first:
+      213: -3095757788054263936
+    second: Miro Mountaintop Dialogue 6.5_5
+  - first:
+      213: 7822194345460910071
+    second: Miro Mountaintop Dialogue 6.5_6
+  - first:
+      213: -2660735213741694116
+    second: Miro Mountaintop Dialogue 6.5_7
+  - first:
+      213: -2876731453539818165
+    second: Miro Mountaintop Dialogue 6.5_8
+  - first:
+      213: -5485806128669313734
+    second: Miro Mountaintop Dialogue 6.5_9
+  - first:
+      213: 3025701194403699096
+    second: Miro Mountaintop Dialogue 6.5_10
+  - first:
+      213: -5099564563549283912
+    second: Miro Mountaintop Dialogue 6.5_11
+  - first:
+      213: 9216697422813243497
+    second: Miro Mountaintop Dialogue 6.5_12
+  - first:
+      213: 4625776087151567855
+    second: Miro Mountaintop Dialogue 6.5_13
+  - first:
+      213: 7687763378704592460
+    second: Miro Mountaintop Dialogue 6.5_14
+  - first:
+      213: 7673937332952536948
+    second: Miro Mountaintop Dialogue 6.5_15
+  - first:
+      213: 6352697805623263700
+    second: Miro Mountaintop Dialogue 6.5_16
+  - first:
+      213: 9036595112175761438
+    second: Miro Mountaintop Dialogue 6.5_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_0
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 744
+        width: 11
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ec8fd5ddcdc41b0800000000000000
+      internalID: -5670914987443827135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 747
+        width: 14
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a88b2150f2d15b10800000000000000
+      internalID: 1968586441733408932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 747
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b732fda435605410800000000000000
+      internalID: 1463781155826448311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 817
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c3c2303afd0fe0800000000000000
+      internalID: -1221044839030472478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 725
+        width: 101
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a315a134c231627d0800000000000000
+      internalID: -2943644225614753478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 740
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087606c91b8a905d0800000000000000
+      internalID: -3095757788054263936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 736
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7444d30540e8c60800000000000000
+      internalID: 7822194345460910071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 734
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53ad879b6b231bd0800000000000000
+      internalID: -2660735213741694116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 748
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e09d0cfbc318d0800000000000000
+      internalID: -2876731453539818165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 752
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35310a14608ed3b0800000000000000
+      internalID: -5485806128669313734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 736
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89958e894337df920800000000000000
+      internalID: 3025701194403699096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 735
+        width: 9
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b999705c05ba39b0800000000000000
+      internalID: -5099564563549283912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_12
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 728
+        width: 31
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968aa01597948ef70800000000000000
+      internalID: 9216697422813243497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 619
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe36a25c7de023040800000000000000
+      internalID: 4625776087151567855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 619
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ea1f8bf0c60ba60800000000000000
+      internalID: 7687763378704592460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 589
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4779e37985d4f7a60800000000000000
+      internalID: 7673937332952536948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 607
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d104950ff0592850800000000000000
+      internalID: 6352697805623263700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miro Mountaintop Dialogue 6.5_17
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 586
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e187448606f686d70800000000000000
+      internalID: 9036595112175761438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Miro Mountaintop Dialogue 6.5_0: -5670914987443827135
+      Miro Mountaintop Dialogue 6.5_1: 1968586441733408932
+      Miro Mountaintop Dialogue 6.5_10: 3025701194403699096
+      Miro Mountaintop Dialogue 6.5_11: -5099564563549283912
+      Miro Mountaintop Dialogue 6.5_12: 9216697422813243497
+      Miro Mountaintop Dialogue 6.5_13: 4625776087151567855
+      Miro Mountaintop Dialogue 6.5_14: 7687763378704592460
+      Miro Mountaintop Dialogue 6.5_15: 7673937332952536948
+      Miro Mountaintop Dialogue 6.5_16: 6352697805623263700
+      Miro Mountaintop Dialogue 6.5_17: 9036595112175761438
+      Miro Mountaintop Dialogue 6.5_2: 1463781155826448311
+      Miro Mountaintop Dialogue 6.5_3: -1221044839030472478
+      Miro Mountaintop Dialogue 6.5_4: -2943644225614753478
+      Miro Mountaintop Dialogue 6.5_5: -3095757788054263936
+      Miro Mountaintop Dialogue 6.5_6: 7822194345460910071
+      Miro Mountaintop Dialogue 6.5_7: -2660735213741694116
+      Miro Mountaintop Dialogue 6.5_8: -2876731453539818165
+      Miro Mountaintop Dialogue 6.5_9: -5485806128669313734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

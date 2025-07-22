@@ -36,7 +36,7 @@ public class EnergyGauge : MonoBehaviour
     void UpdateGauge()
     {
         float scaleX = Mathf.Clamp01((float)energy / 100f);
-        rectTransform.localScale = new Vector3(scaleX, 1, 1);
+        rectTransform.localScale = new Vector3(scaleX, rectTransform.localScale.y, 1);
 
         if (energy == 100 && fullGauge != null)
         {

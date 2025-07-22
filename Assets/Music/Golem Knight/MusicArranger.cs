@@ -49,7 +49,7 @@ public class MusicArranger : MonoBehaviour
     }
     public void End()
     {
-        Debug.Log("MusicArranger: End called");
+        // Debug.Log("MusicArranger: End called");
         if (coroutine != null)
         {
             StopCoroutine(coroutine);

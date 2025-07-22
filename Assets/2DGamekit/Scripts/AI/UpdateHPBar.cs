@@ -19,7 +19,7 @@ public class UpdateHPBar : MonoBehaviour
     {
         newValue = (float)damageable.CurrentHealth / damageable.startingHealth;
         healthBar.localScale = new Vector3(newValue, 1, 1);
-        if (newValue == 0)
+        if (newValue <= 0)
         {
             Disable();
         }

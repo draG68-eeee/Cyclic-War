@@ -67,6 +67,7 @@ public class GolemKnightAI : MonoBehaviour
         if (selfDamageable.CurrentHealth <= 0)
         {
             StopCoroutine(BossAICoroutine);
+            audioSource.Stop();
             spriteRenderer.sprite = idleSprite;
         }
     }
