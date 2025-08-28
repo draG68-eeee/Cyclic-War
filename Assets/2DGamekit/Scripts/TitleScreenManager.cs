@@ -35,13 +35,19 @@ public class TitleScreenManager : MonoBehaviour
 
     void OnNewGameClicked()
     {
+        Debug.Log($"[OnNewGameClicked] Slot: {selectedSlot}");
         if (selectedSlot == -1) return;
-        // Clear the selected save slot
-        PlayerPrefs.DeleteKey(GetSaveKey(selectedSlot, "BonfireCheckpoint_Save"));
-        PlayerPrefs.DeleteKey(GetSaveKey(selectedSlot, "BonfireCheckpoint_Visited"));
         PlayerPrefs.SetInt("SelectedSaveSlot", selectedSlot);
         PlayerPrefs.Save();
-        SceneManager.LoadScene("World of Eternal Cycle"); // replace with your main scene name
+    #if UNITY_WEBGL
+        PlayerPrefs.DeleteKey($"save_slot_{selectedSlot}_json");
+        PlayerPrefs.Save();
+    #else
+        string path = System.IO.Path.Combine(Application.persistentDataPath, $"save_slot_{selectedSlot}.json");
+        if (System.IO.File.Exists(path))
+            System.IO.File.Delete(path);
+    #endif
+        SceneManager.LoadScene("World of Eternal Cycle");
     }
 
     void PopulateCheckpointList()
@@ -62,9 +68,25 @@ public class TitleScreenManager : MonoBehaviour
 
     public void ContinueGame()
     {
+        Debug.Log($"[ContinueGame] Slot: {selectedSlot}");
         PlayerPrefs.SetInt("SelectedSaveSlot", selectedSlot);
         PlayerPrefs.Save();
-        SceneManager.LoadScene("World of Eternal Cycle"); // replace with your main scene name
+#if UNITY_WEBGL
+        bool hasSave = PlayerPrefs.HasKey($"save_slot_{selectedSlot}_json");
+        Debug.Log($"[ContinueGame] (WebGL) Save exists: {hasSave}");
+        if (hasSave)
+            SceneManager.LoadScene("World of Eternal Cycle");
+        else
+            Debug.LogWarning("No save found in PlayerPrefs for this slot!");
+#else
+        string path = System.IO.Path.Combine(Application.persistentDataPath, $"save_slot_{selectedSlot}.json");
+        Debug.Log($"[ContinueGame] Checking for save file at: {path}");
+        Debug.Log($"[ContinueGame] File exists: {System.IO.File.Exists(path)}");
+        if (System.IO.File.Exists(path))
+            SceneManager.LoadScene("World of Eternal Cycle");
+        else
+            Debug.LogWarning("No save file exists for this slot!");
+#endif
     }
 
     string GetSaveKey(int slot, string key) => $"SaveSlot_{slot}_{key}";

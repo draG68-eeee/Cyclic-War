@@ -26,13 +26,18 @@ public class UpdateHPBar : MonoBehaviour
         // UpdateDelta();
     }
 
+    
+
     public void Enable()
     {
+        Debug.Log("trigger");
         panel.SetActive(true);
     }
 
     public void Disable()
     {
+        Debug.Log("turnin off");
+        Debug.Log(panel.name);
         panel.SetActive(false);
     }
 

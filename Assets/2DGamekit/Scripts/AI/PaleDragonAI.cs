@@ -5,11 +5,13 @@ public class PaleDragonAI : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public GameObject player;
+    public GameObject flamePrefab;
     public SpriteRenderer spriteRenderer;
     public Rigidbody2D rb;
     public Sprite[] clawSweepSprites;
     public Sprite[] diveBombSprites;
     public Sprite[] tailPierceSprites;
+    public Sprite[] flameBreathSprites;
     public Sprite idle;
     public Damageable damageable;
 
@@ -23,6 +25,7 @@ public class PaleDragonAI : MonoBehaviour
     private Coroutine coroutine;
     public AudioSource roar;
     public bool isAggro;
+    public string flameDirection;
 
 
     // TRUE if sprite’s native direction is LEFT
@@ -65,7 +68,7 @@ public class PaleDragonAI : MonoBehaviour
 
     IEnumerator BossAI()
     {
-        
+
         yield return new WaitUntil(() => isAggro); // Optional startup delay
         updateHPBar.Enable();
         yield return StartCoroutine(Divebomb());
@@ -77,7 +80,7 @@ public class PaleDragonAI : MonoBehaviour
             Vector3 direction = (player.transform.position - transform.position).normalized;
             spriteRenderer.flipX = -direction.x < 0;
 
-            if (distance > 3f)
+            if (distance > 7f)
             {
                 Chase();
                 yield return new WaitForSeconds(0.1f); // Smooth movement step
@@ -85,6 +88,10 @@ public class PaleDragonAI : MonoBehaviour
             else if (distance <= 2f)
             {
                 yield return TailPierce();
+            }
+            else if (distance < 7f && distance > 5)
+            {
+                yield return FlameAttack();
             }
             else
             {
@@ -169,7 +176,7 @@ public class PaleDragonAI : MonoBehaviour
         }
         // yield return new WaitForSeconds(0.25f);
 
-        
+
         yield return new WaitForSeconds(0.25f);
         clawSweepHitboxL.isHitboxActive = false;
         clawSweepHitboxR.isHitboxActive = false;
@@ -196,5 +203,36 @@ public class PaleDragonAI : MonoBehaviour
         tailJabHitboxL.isHitboxActive = false;
         tailJabHitboxR.isHitboxActive = false;
         spriteRenderer.sprite = idle;
+    }
+
+    IEnumerator FlameAttack()
+    {
+        spriteRenderer.sprite = flameBreathSprites[0];
+        yield return new WaitForSeconds(2);
+        spriteRenderer.sprite = flameBreathSprites[1];
+        int i = 0;
+        if (spriteRenderer.flipX)
+        {
+            flameDirection = "right";
+        }
+        else
+        {
+            flameDirection = "left";
+        }
+
+
+
+        if (flameDirection == "left")
+        {
+            Instantiate(flamePrefab, new Vector3(transform.position.x - 6.5f, transform.position.y, 1), transform.rotation);
+        }
+        else
+        {
+            Instantiate(flamePrefab, new Vector3(transform.position.x + 6.5f, transform.position.y, 1), transform.rotation);
+        }
+        i++;
+        yield return new WaitForSeconds(3f);
+
+
     }
 }

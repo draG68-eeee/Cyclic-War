@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 4e4633a3ae95b46ce9f8ccf3301be4c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6474177925488976880
+    second: GRIX title_0
+  - first:
+      213: -5523394940470835164
+    second: GRIX title_1
+  - first:
+      213: -8110384915628501243
+    second: GRIX title_2
+  - first:
+      213: -8506484392220396866
+    second: GRIX title_3
+  - first:
+      213: -6602254476306199992
+    second: GRIX title_4
+  - first:
+      213: -7839765330066123425
+    second: GRIX title_5
+  - first:
+      213: -5977040374254876824
+    second: GRIX title_6
+  - first:
+      213: 5977308233328663578
+    second: GRIX title_7
+  - first:
+      213: -4011425516892438969
+    second: GRIX title_8
+  - first:
+      213: 2784080048511622923
+    second: GRIX title_9
+  - first:
+      213: -5501965130589693158
+    second: GRIX title_10
+  - first:
+      213: -1213969323605319252
+    second: GRIX title_11
+  - first:
+      213: -1466899860089397207
+    second: GRIX title_12
+  - first:
+      213: 403584709577638077
+    second: GRIX title_13
+  - first:
+      213: 7760351527510042663
+    second: GRIX title_14
+  - first:
+      213: 2863230945440404607
+    second: GRIX title_15
+  - first:
+      213: -8019652222888427057
+    second: GRIX title_16
+  - first:
+      213: 6936222096867273368
+    second: GRIX title_17
+  - first:
+      213: 4667158231591580895
+    second: GRIX title_18
+  - first:
+      213: -5637237572184536637
+    second: GRIX title_19
+  - first:
+      213: -3167037253470001994
+    second: GRIX title_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GRIX title_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 524
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f322758586e8d950800000000000000
+      internalID: 6474177925488976880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 575
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428cb0bd095f853b0800000000000000
+      internalID: -5523394940470835164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 534
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507d640d3ef127f80800000000000000
+      internalID: -8110384915628501243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 524
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb27c4ab385e2f980800000000000000
+      internalID: -8506484392220396866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 519
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a4907b8841064a0800000000000000
+      internalID: -6602254476306199992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 518
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f555cfa18fe833390800000000000000
+      internalID: -7839765330066123425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 509
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867ce5482794d0da0800000000000000
+      internalID: -5977040374254876824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 511
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c92984b2aa3f250800000000000000
+      internalID: 5977308233328663578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 513
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e30beeebd8458c0800000000000000
+      internalID: -4011425516892438969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_9
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 504
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f99cdad0a03a620800000000000000
+      internalID: 2784080048511622923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_10
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 512
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b9d984dd715a3b0800000000000000
+      internalID: -5501965130589693158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 511
+        width: 13
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a842055d172fe0800000000000000
+      internalID: -1213969323605319252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 502
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9202d46695684abe0800000000000000
+      internalID: -1466899860089397207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_13
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 507
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08723b722d99500800000000000000
+      internalID: 403584709577638077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_14
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 505
+        width: 31
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7286561299e42bb60800000000000000
+      internalID: 7760351527510042663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_15
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 479
+        width: 94
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7491e4ff5d3cb720800000000000000
+      internalID: 2863230945440404607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 523
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc140901bc874b090800000000000000
+      internalID: -8019652222888427057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 516
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a2df65f39624060800000000000000
+      internalID: 6936222096867273368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 512
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd47e881fa315c040800000000000000
+      internalID: 4667158231591580895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_19
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 514
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c98473ab4284c1b0800000000000000
+      internalID: -5637237572184536637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRIX title_20
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 512
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ed7cc56c6c04d0800000000000000
+      internalID: -3167037253470001994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GRIX title_0: 6474177925488976880
+      GRIX title_1: -5523394940470835164
+      GRIX title_10: -5501965130589693158
+      GRIX title_11: -1213969323605319252
+      GRIX title_12: -1466899860089397207
+      GRIX title_13: 403584709577638077
+      GRIX title_14: 7760351527510042663
+      GRIX title_15: 2863230945440404607
+      GRIX title_16: -8019652222888427057
+      GRIX title_17: 6936222096867273368
+      GRIX title_18: 4667158231591580895
+      GRIX title_19: -5637237572184536637
+      GRIX title_2: -8110384915628501243
+      GRIX title_20: -3167037253470001994
+      GRIX title_3: -8506484392220396866
+      GRIX title_4: -6602254476306199992
+      GRIX title_5: -7839765330066123425
+      GRIX title_6: -5977040374254876824
+      GRIX title_7: 5977308233328663578
+      GRIX title_8: -4011425516892438969
+      GRIX title_9: 2784080048511622923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

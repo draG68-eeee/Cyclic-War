@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 397b1d9c896ba49a9ae26dd0445422e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2856292775269418660
+    second: Alle Healthbar Name_0
+  - first:
+      213: -6281374892060825080
+    second: Alle Healthbar Name_1
+  - first:
+      213: -414021308318720759
+    second: Alle Healthbar Name_2
+  - first:
+      213: 9140334293826500668
+    second: Alle Healthbar Name_3
+  - first:
+      213: 8672752608617327338
+    second: Alle Healthbar Name_4
+  - first:
+      213: 2192220730249173437
+    second: Alle Healthbar Name_5
+  - first:
+      213: 3635464877667290023
+    second: Alle Healthbar Name_6
+  - first:
+      213: 8254453186371745350
+    second: Alle Healthbar Name_7
+  - first:
+      213: 4383980464052568357
+    second: Alle Healthbar Name_8
+  - first:
+      213: 386852936358799058
+    second: Alle Healthbar Name_9
+  - first:
+      213: 2142814110232097107
+    second: Alle Healthbar Name_10
+  - first:
+      213: 8168737583299257872
+    second: Alle Healthbar Name_11
+  - first:
+      213: 4930821445896875597
+    second: Alle Healthbar Name_12
+  - first:
+      213: -1513668073396815358
+    second: Alle Healthbar Name_13
+  - first:
+      213: 3273818214040561887
+    second: Alle Healthbar Name_14
+  - first:
+      213: 763417289398742273
+    second: Alle Healthbar Name_15
+  - first:
+      213: -7984747706889415495
+    second: Alle Healthbar Name_16
+  - first:
+      213: 6215152841057833132
+    second: Alle Healthbar Name_17
+  - first:
+      213: 3219802607821615055
+    second: Alle Healthbar Name_18
+  - first:
+      213: 5153574421492724142
+    second: Alle Healthbar Name_19
+  - first:
+      213: 986071158134791694
+    second: Alle Healthbar Name_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alle Healthbar Name_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 510
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593d8baad86c58d0800000000000000
+      internalID: -2856292775269418660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 507
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a28a9d0d214d8a0800000000000000
+      internalID: -6281374892060825080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 504
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d583c40d9114af0800000000000000
+      internalID: -414021308318720759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 500
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3879d7dc9df8de70800000000000000
+      internalID: 9140334293826500668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 492
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea6a7d1c8ecb5870800000000000000
+      internalID: 8672752608617327338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 503
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9dfb7a3255c6e10800000000000000
+      internalID: 2192220730249173437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 503
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab84c27b04c37230800000000000000
+      internalID: 3635464877667290023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 490
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64677c46075bd8270800000000000000
+      internalID: 8254453186371745350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 485
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5210b16310707dc30800000000000000
+      internalID: 4383980464052568357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 488
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6abfb22b06e5500800000000000000
+      internalID: 386852936358799058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 484
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3513414841eccbd10800000000000000
+      internalID: 2142814110232097107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 484
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0166feb5d8f2d5170800000000000000
+      internalID: 8168737583299257872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 474
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eaf8dfafbcd6440800000000000000
+      internalID: 4930821445896875597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 469
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a355138ee5efae0800000000000000
+      internalID: -1513668073396815358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_14
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 468
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8671bf150fe6d20800000000000000
+      internalID: 3273818214040561887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_15
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 452
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10de00edaf3389a00800000000000000
+      internalID: 763417289398742273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 444
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4ddbdf34a703190800000000000000
+      internalID: -7984747706889415495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_17
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 466
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca013046498a04650800000000000000
+      internalID: 6215152841057833132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 454
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf651e99690fac20800000000000000
+      internalID: 3219802607821615055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_19
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 436
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1fc9ca1ac258740800000000000000
+      internalID: 5153574421492724142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Healthbar Name_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 439
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ed1ef6e7a3fad00800000000000000
+      internalID: 986071158134791694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alle Healthbar Name_0: -2856292775269418660
+      Alle Healthbar Name_1: -6281374892060825080
+      Alle Healthbar Name_10: 2142814110232097107
+      Alle Healthbar Name_11: 8168737583299257872
+      Alle Healthbar Name_12: 4930821445896875597
+      Alle Healthbar Name_13: -1513668073396815358
+      Alle Healthbar Name_14: 3273818214040561887
+      Alle Healthbar Name_15: 763417289398742273
+      Alle Healthbar Name_16: -7984747706889415495
+      Alle Healthbar Name_17: 6215152841057833132
+      Alle Healthbar Name_18: 3219802607821615055
+      Alle Healthbar Name_19: 5153574421492724142
+      Alle Healthbar Name_2: -414021308318720759
+      Alle Healthbar Name_20: 986071158134791694
+      Alle Healthbar Name_3: 9140334293826500668
+      Alle Healthbar Name_4: 8672752608617327338
+      Alle Healthbar Name_5: 2192220730249173437
+      Alle Healthbar Name_6: 3635464877667290023
+      Alle Healthbar Name_7: 8254453186371745350
+      Alle Healthbar Name_8: 4383980464052568357
+      Alle Healthbar Name_9: 386852936358799058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grix Scythe Transition_0: -3673943998548869326
+      Grix Scythe Transition_1: 4518033646227169074
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

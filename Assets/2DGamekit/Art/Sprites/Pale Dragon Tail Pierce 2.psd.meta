@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pale Dragon Tail Pierce 2_0: 7829972174977659396
+      Pale Dragon Tail Pierce 2_1: 4969000630092910126
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -21,7 +21,7 @@ public class MusicArranger : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (damageable.CurrentHealth == 0)
+        if (damageable.CurrentHealth <= 0)
         {
             End();
         }

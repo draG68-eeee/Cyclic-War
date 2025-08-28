@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wall of Flames 2_0: -5111103325299555214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

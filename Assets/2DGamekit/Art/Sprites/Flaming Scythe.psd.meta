@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flaming Scythe_0: 1684530934303056991
+      Flaming Scythe_1: -1276359196210358279
+      Flaming Scythe_2: -3718660942705945849
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

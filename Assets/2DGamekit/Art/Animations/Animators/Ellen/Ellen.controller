@@ -171,7 +171,7 @@ AnimatorStateMachine:
   m_ChildStateMachines:
   - serializedVersion: 1
     m_StateMachine: {fileID: 1107404657614578610}
-    m_Position: {x: -12, y: 360, z: 0}
+    m_Position: {x: -10, y: 360, z: 0}
   - serializedVersion: 1
     m_StateMachine: {fileID: 1107178917886546278}
     m_Position: {x: 180, y: 480, z: 0}
@@ -736,7 +736,7 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: ff9b21af5c5da5f47acb33b9ee9ff054, type: 2}
+    m_Motion: {fileID: 7400000, guid: e4464dd1d250849879da6f94f71cb9fe, type: 2}
     m_Threshold: 0
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -1342,7 +1342,7 @@ AnimatorStateTransition:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 
+  m_Name: e
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: Hurt
@@ -1711,7 +1711,7 @@ AnimatorStateTransition:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 
+  m_Name: i
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1102630331402682888}
@@ -2105,7 +2105,7 @@ AnimatorStateTransition:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 
+  m_Name: e
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: MeleeAttack
@@ -2712,7 +2712,7 @@ AnimatorStateMachine:
     m_Position: {x: -80, y: 310, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102130166507714656}
-    m_Position: {x: 612, y: 312, z: 0}
+    m_Position: {x: 610, y: 310, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions:
@@ -2725,9 +2725,9 @@ AnimatorStateMachine:
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: 710, y: 200, z: 0}
-  m_EntryPosition: {x: 300, y: 252, z: 0}
+  m_EntryPosition: {x: 300, y: 250, z: 0}
   m_ExitPosition: {x: 300, y: 588, z: 0}
-  m_ParentStateMachinePosition: {x: 276, y: 180, z: 0}
+  m_ParentStateMachinePosition: {x: 280, y: 180, z: 0}
   m_DefaultState: {fileID: 1102630331402682888}
 --- !u!1107 &1107742577035664296
 AnimatorStateMachine:

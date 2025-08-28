@@ -20,7 +20,7 @@ public class CustomHPBar : MonoBehaviour
     private void UpdateBar()
     {
         int current = damageable.CurrentHealth;
-        float currentFill = (float)current / 5;
+        float currentFill = (float)current / damageable.startingHealth;
         rectTransform.localScale = new Vector3(currentFill, 1, 1);
         // yield return new WaitForSeconds(2);
         

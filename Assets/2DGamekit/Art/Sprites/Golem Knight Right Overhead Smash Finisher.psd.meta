@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem Knight Right Overhead Smash Finisher_0: 1970009829848407348
+      Golem Knight Right Overhead Smash Finisher_1: 5762452184998814728
+      Golem Knight Right Overhead Smash Finisher_2: 302029013461225294
+      Golem Knight Right Overhead Smash Finisher_3: -3792068210081733408
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

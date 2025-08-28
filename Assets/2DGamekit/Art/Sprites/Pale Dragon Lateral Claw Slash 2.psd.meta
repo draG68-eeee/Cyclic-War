@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pale Dragon Lateral Claw Slash 2_0: 7676035598473960342
+      Pale Dragon Lateral Claw Slash 2_1: -51042176071879599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

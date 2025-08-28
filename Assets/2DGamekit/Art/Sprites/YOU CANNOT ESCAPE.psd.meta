@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: 7571301ae504a4926ae08bb6c4b54ba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6793488327474954907
+    second: YOU CANNOT ESCAPE_0
+  - first:
+      213: -4359832368055361796
+    second: YOU CANNOT ESCAPE_1
+  - first:
+      213: 7009943742352777255
+    second: YOU CANNOT ESCAPE_2
+  - first:
+      213: 848815139498051605
+    second: YOU CANNOT ESCAPE_3
+  - first:
+      213: -1455650606426424514
+    second: YOU CANNOT ESCAPE_4
+  - first:
+      213: 124491118904299242
+    second: YOU CANNOT ESCAPE_5
+  - first:
+      213: 4763954023053605921
+    second: YOU CANNOT ESCAPE_6
+  - first:
+      213: -2743214631641591937
+    second: YOU CANNOT ESCAPE_7
+  - first:
+      213: 7997556009160052083
+    second: YOU CANNOT ESCAPE_8
+  - first:
+      213: -1625132871430150050
+    second: YOU CANNOT ESCAPE_9
+  - first:
+      213: 264303456214664453
+    second: YOU CANNOT ESCAPE_10
+  - first:
+      213: -3585170630529027137
+    second: YOU CANNOT ESCAPE_11
+  - first:
+      213: -2273404161408434937
+    second: YOU CANNOT ESCAPE_12
+  - first:
+      213: -700629776903885469
+    second: YOU CANNOT ESCAPE_13
+  - first:
+      213: -929874543384027062
+    second: YOU CANNOT ESCAPE_14
+  - first:
+      213: -1837375302307395181
+    second: YOU CANNOT ESCAPE_15
+  - first:
+      213: 6683066411704616411
+    second: YOU CANNOT ESCAPE_16
+  - first:
+      213: 7552785345442594447
+    second: YOU CANNOT ESCAPE_17
+  - first:
+      213: -8863725272130372761
+    second: YOU CANNOT ESCAPE_18
+  - first:
+      213: -7386521773946246301
+    second: YOU CANNOT ESCAPE_19
+  - first:
+      213: -8588398774432026346
+    second: YOU CANNOT ESCAPE_20
+  - first:
+      213: 8869255854659696873
+    second: YOU CANNOT ESCAPE_21
+  - first:
+      213: -2143385339031537281
+    second: YOU CANNOT ESCAPE_22
+  - first:
+      213: -8418997290318386930
+    second: YOU CANNOT ESCAPE_23
+  - first:
+      213: -1468649159084247469
+    second: YOU CANNOT ESCAPE_24
+  - first:
+      213: 3421310890476939000
+    second: YOU CANNOT ESCAPE_25
+  - first:
+      213: -3994349638010469664
+    second: YOU CANNOT ESCAPE_26
+  - first:
+      213: -2531081465875244938
+    second: YOU CANNOT ESCAPE_27
+  - first:
+      213: -6684265346897936496
+    second: YOU CANNOT ESCAPE_28
+  - first:
+      213: 6635012623321225075
+    second: YOU CANNOT ESCAPE_29
+  - first:
+      213: -2153125420615293808
+    second: YOU CANNOT ESCAPE_30
+  - first:
+      213: -5920895317455627516
+    second: YOU CANNOT ESCAPE_31
+  - first:
+      213: 3651989327422468884
+    second: YOU CANNOT ESCAPE_32
+  - first:
+      213: -6102501714990757676
+    second: YOU CANNOT ESCAPE_33
+  - first:
+      213: -8405688321468371926
+    second: YOU CANNOT ESCAPE_34
+  - first:
+      213: 8914164392810680996
+    second: YOU CANNOT ESCAPE_35
+  - first:
+      213: -1868563351454052586
+    second: YOU CANNOT ESCAPE_36
+  - first:
+      213: 3445110747876581739
+    second: YOU CANNOT ESCAPE_37
+  - first:
+      213: -8247774815130760869
+    second: YOU CANNOT ESCAPE_38
+  - first:
+      213: -3774226144409864022
+    second: YOU CANNOT ESCAPE_39
+  - first:
+      213: 6132534902008307153
+    second: YOU CANNOT ESCAPE_40
+  - first:
+      213: 6089749546717639553
+    second: YOU CANNOT ESCAPE_41
+  - first:
+      213: -163701274736609317
+    second: YOU CANNOT ESCAPE_42
+  - first:
+      213: -8103960634322979865
+    second: YOU CANNOT ESCAPE_43
+  - first:
+      213: 2345504794479294644
+    second: YOU CANNOT ESCAPE_44
+  - first:
+      213: -5906870007169510508
+    second: YOU CANNOT ESCAPE_45
+  - first:
+      213: -2552833226280078796
+    second: YOU CANNOT ESCAPE_46
+  - first:
+      213: -8021984886240632645
+    second: YOU CANNOT ESCAPE_47
+  - first:
+      213: -8013158803222485320
+    second: YOU CANNOT ESCAPE_48
+  - first:
+      213: -576676235409863523
+    second: YOU CANNOT ESCAPE_49
+  - first:
+      213: 6239054325142291714
+    second: YOU CANNOT ESCAPE_50
+  - first:
+      213: 3928299634837356532
+    second: YOU CANNOT ESCAPE_51
+  - first:
+      213: -2725596267441786329
+    second: YOU CANNOT ESCAPE_52
+  - first:
+      213: -7970944932126306028
+    second: YOU CANNOT ESCAPE_53
+  - first:
+      213: 7186414179765235141
+    second: YOU CANNOT ESCAPE_54
+  - first:
+      213: 6424394558899592743
+    second: YOU CANNOT ESCAPE_55
+  - first:
+      213: -5158853844709162887
+    second: YOU CANNOT ESCAPE_56
+  - first:
+      213: -1830680718405435886
+    second: YOU CANNOT ESCAPE_57
+  - first:
+      213: 6546885152495124209
+    second: YOU CANNOT ESCAPE_58
+  - first:
+      213: -7454606139336472329
+    second: YOU CANNOT ESCAPE_59
+  - first:
+      213: 952844769295118062
+    second: YOU CANNOT ESCAPE_60
+  - first:
+      213: 3752204660755664103
+    second: YOU CANNOT ESCAPE_61
+  - first:
+      213: -8071090900952413627
+    second: YOU CANNOT ESCAPE_62
+  - first:
+      213: -7473714390666266937
+    second: YOU CANNOT ESCAPE_63
+  - first:
+      213: 4650611379374048956
+    second: YOU CANNOT ESCAPE_64
+  - first:
+      213: 6826914406241617106
+    second: YOU CANNOT ESCAPE_65
+  - first:
+      213: -897800419788554640
+    second: YOU CANNOT ESCAPE_66
+  - first:
+      213: -8867773887779404907
+    second: YOU CANNOT ESCAPE_67
+  - first:
+      213: 7808220806587729796
+    second: YOU CANNOT ESCAPE_68
+  - first:
+      213: -3350729690124771945
+    second: YOU CANNOT ESCAPE_69
+  - first:
+      213: -6084004499856117157
+    second: YOU CANNOT ESCAPE_70
+  - first:
+      213: -4676815848544884263
+    second: YOU CANNOT ESCAPE_71
+  - first:
+      213: -1605232881340249492
+    second: YOU CANNOT ESCAPE_72
+  - first:
+      213: -1164193711202203980
+    second: YOU CANNOT ESCAPE_73
+  - first:
+      213: -7734734835388485828
+    second: YOU CANNOT ESCAPE_74
+  - first:
+      213: 522461404517476383
+    second: YOU CANNOT ESCAPE_75
+  - first:
+      213: -5060301016940423845
+    second: YOU CANNOT ESCAPE_76
+  - first:
+      213: 1619910149519453832
+    second: YOU CANNOT ESCAPE_77
+  - first:
+      213: 1321056128683985584
+    second: YOU CANNOT ESCAPE_78
+  - first:
+      213: -413797543069206307
+    second: YOU CANNOT ESCAPE_79
+  - first:
+      213: -5078698341129510029
+    second: YOU CANNOT ESCAPE_80
+  - first:
+      213: -7330383893181585103
+    second: YOU CANNOT ESCAPE_81
+  - first:
+      213: -1660641935454480513
+    second: YOU CANNOT ESCAPE_82
+  - first:
+      213: 1524720054515509802
+    second: YOU CANNOT ESCAPE_83
+  - first:
+      213: 8116317220648261410
+    second: YOU CANNOT ESCAPE_84
+  - first:
+      213: -1805514844492873013
+    second: YOU CANNOT ESCAPE_85
+  - first:
+      213: 8527490227073786371
+    second: YOU CANNOT ESCAPE_86
+  - first:
+      213: -8536823396527302348
+    second: YOU CANNOT ESCAPE_87
+  - first:
+      213: 8139706541400785901
+    second: YOU CANNOT ESCAPE_88
+  - first:
+      213: 3707699292868072354
+    second: YOU CANNOT ESCAPE_89
+  - first:
+      213: -1414900677395724190
+    second: YOU CANNOT ESCAPE_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 838
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9248e0f3a1574e50800000000000000
+      internalID: 6793488327474954907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 851
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe5fc58f83ce73c0800000000000000
+      internalID: -4359832368055361796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 829
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e86281b2584160800000000000000
+      internalID: 7009943742352777255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 842
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51841c54fd897cb00800000000000000
+      internalID: 848815139498051605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 837
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bfede5c7d7ccbe0800000000000000
+      internalID: -1455650606426424514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 861
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee4bf753084ab100800000000000000
+      internalID: 124491118904299242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_6
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 855
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c376681f6fc1240800000000000000
+      internalID: 4763954023053605921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 856
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f4952a3d42ee9d0800000000000000
+      internalID: -2743214631641591937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 867
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d864541d60dfe60800000000000000
+      internalID: 7997556009160052083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 856
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e586895834e5279e0800000000000000
+      internalID: -1625132871430150050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_10
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 840
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5054594d79efaa300800000000000000
+      internalID: 264303456214664453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 745
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3772c7e4aee3ec0800000000000000
+      internalID: -3585170630529027137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 747
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dfa50d5fe3370e0800000000000000
+      internalID: -2273404161408434937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 737
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d25941eecd646f0800000000000000
+      internalID: -700629776903885469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 741
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40aaeb870c6813f0800000000000000
+      internalID: -929874543384027062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 741
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39944eab5e45086e0800000000000000
+      internalID: -1837375302307395181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 735
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd58ff73e750fbc50800000000000000
+      internalID: 6683066411704616411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 743
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eb1eb5142e0d860800000000000000
+      internalID: 7552785345442594447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 751
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b3408b3d8bdf480800000000000000
+      internalID: -8863725272130372761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 739
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bee32059dcd7990800000000000000
+      internalID: -7386521773946246301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_20
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 738
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611349461d0efc880800000000000000
+      internalID: -8588398774432026346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_21
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 754
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e87b0f553de51b70800000000000000
+      internalID: 8869255854659696873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_22
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 746
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79be3ae36a2142e0800000000000000
+      internalID: -2143385339031537281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_23
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 747
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a899f196b92b80800000000000000
+      internalID: -8418997290318386930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 745
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567b1dfe5f4e9be0800000000000000
+      internalID: -1468649159084247469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 738
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ad05c020fa7f20800000000000000
+      internalID: 3421310890476939000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 647
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20dadca283198c0800000000000000
+      internalID: -3994349638010469664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 646
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6785ee821dacfdcd0800000000000000
+      internalID: -2531081465875244938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 703
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ff1bde418bc33a0800000000000000
+      internalID: -6684265346897936496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_29
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 654
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3775b4db3dc441c50800000000000000
+      internalID: 6635012623321225075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_30
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 653
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094ac5376df8e12e0800000000000000
+      internalID: -2153125420615293808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_31
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 663
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b98ca3411c4dda0800000000000000
+      internalID: -5920895317455627516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_32
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 652
+        width: 29
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b888b1f87ea230800000000000000
+      internalID: 3651989327422468884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_33
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 649
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d883ccc50f8f4ba0800000000000000
+      internalID: -6102501714990757676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_34
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 649
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c6a32c10ff85b80800000000000000
+      internalID: -8405688321468371926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 649
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a29ae6394975bb70800000000000000
+      internalID: 8914164392810680996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 529
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f844c28878116e0800000000000000
+      internalID: -1868563351454052586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 548
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b616013e8fd7fcf20800000000000000
+      internalID: 3445110747876581739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 603
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59c7b411840a8d80800000000000000
+      internalID: -8247774815130760869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_39
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 589
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8357081514f9bc0800000000000000
+      internalID: -3774226144409864022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 541
+        width: 20
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd3e670042b1550800000000000000
+      internalID: 6132534902008307153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_41
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 539
+        width: 19
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1837337a2f2238450800000000000000
+      internalID: 6089749546717639553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 522
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7bb06de8a6abdf0800000000000000
+      internalID: -163701274736609317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 541
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3fd6d5db2f88f80800000000000000
+      internalID: -8103960634322979865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 536
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8f9edfe28ec8020800000000000000
+      internalID: 2345504794479294644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 542
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49390404605960ea0800000000000000
+      internalID: -5906870007169510508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 518
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432f2c8c4b3829cd0800000000000000
+      internalID: -2552833226280078796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_47
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 541
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0231e8f3f2ca090800000000000000
+      internalID: -8021984886240632645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 546
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b62125268a8bc090800000000000000
+      internalID: -8013158803222485320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_49
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 525
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c4cfde40c3ff7f0800000000000000
+      internalID: -576676235409863523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_50
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 538
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20588705ad2959650800000000000000
+      internalID: 6239054325142291714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 537
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fff6c174bf148630800000000000000
+      internalID: 3928299634837356532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_52
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 529
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7227006b2acbc2ad0800000000000000
+      internalID: -2725596267441786329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_53
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 529
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411596ce0d3816190800000000000000
+      internalID: -7970944932126306028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 440
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdacb90f954bb360800000000000000
+      internalID: 7186414179765235141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_55
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 502
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e992c30d8082950800000000000000
+      internalID: 6424394558899592743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 496
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970c3f1d2c11868b0800000000000000
+      internalID: -5158853844709162887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 440
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e7942069d1896e0800000000000000
+      internalID: -1830680718405435886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_58
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 439
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe30cbfb553bda50800000000000000
+      internalID: 6546885152495124209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_59
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 434
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f84764663beb8890800000000000000
+      internalID: -7454606139336472329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_60
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 454
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeacefe44f293d00800000000000000
+      internalID: 952844769295118062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 451
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec08e84242821430800000000000000
+      internalID: 3752204660755664103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_62
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 444
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a08da8699bdff80800000000000000
+      internalID: -8071090900952413627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 447
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6bc9feb58084890800000000000000
+      internalID: -7473714390666266937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_64
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 446
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6caf7d86a4a8040800000000000000
+      internalID: 4650611379374048956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_65
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 432
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d447006b721ebe50800000000000000
+      internalID: 6826914406241617106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_66
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 410
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e7e43664f5a83f0800000000000000
+      internalID: -897800419788554640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_67
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 445
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5938c6ee1a65fe480800000000000000
+      internalID: -8867773887779404907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_68
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 444
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487c970347f5c5c60800000000000000
+      internalID: 7808220806587729796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_69
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 439
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d12c98911df71d0800000000000000
+      internalID: -3350729690124771945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_70
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 430
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b23e4426419ba0800000000000000
+      internalID: -6084004499856117157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_71
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 429
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a09bb3cc981fb0800000000000000
+      internalID: -4676815848544884263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_72
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 439
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a00f5033119b9e0800000000000000
+      internalID: -1605232881340249492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_73
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 430
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b68c02ecf3f7dfe0800000000000000
+      internalID: -1164193711202203980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_74
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 437
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f64d8c5a3b8a490800000000000000
+      internalID: -7734734835388485828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_75
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 287
+        width: 68
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18ad1911e7204700800000000000000
+      internalID: 522461404517476383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_76
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 414
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55d7b4290336c9b0800000000000000
+      internalID: -5060301016940423845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 314
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e2826c2b31b7610800000000000000
+      internalID: 1619910149519453832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_78
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 309
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bacf8ebc85555210800000000000000
+      internalID: 1321056128683985584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_79
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 307
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd83e64b355e14af0800000000000000
+      internalID: -413797543069206307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_80
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 296
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3732c9f44c6d489b0800000000000000
+      internalID: -5078698341129510029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_81
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 309
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139aaabefae354a90800000000000000
+      internalID: -7330383893181585103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 325
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f775e1a45f634f8e0800000000000000
+      internalID: -1660641935454480513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_83
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 310
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aaf4fafc4e82510800000000000000
+      internalID: 1524720054515509802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_84
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 293
+        width: 47
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22710259283f2a070800000000000000
+      internalID: 8116317220648261410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_85
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 302
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2ce41a0d581f6e0800000000000000
+      internalID: -1805514844492873013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_86
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 298
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30229525e2bb75670800000000000000
+      internalID: 8527490227073786371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_87
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 307
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391fb3d95c178980800000000000000
+      internalID: -8536823396527302348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_88
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 304
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de30e1039fb06f070800000000000000
+      internalID: 8139706541400785901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_89
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 289
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a35e55dcd4647330800000000000000
+      internalID: 3707699292868072354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU CANNOT ESCAPE_90
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 281
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2684e5394534d5ce0800000000000000
+      internalID: -1414900677395724190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YOU CANNOT ESCAPE_0: 6793488327474954907
+      YOU CANNOT ESCAPE_1: -4359832368055361796
+      YOU CANNOT ESCAPE_10: 264303456214664453
+      YOU CANNOT ESCAPE_11: -3585170630529027137
+      YOU CANNOT ESCAPE_12: -2273404161408434937
+      YOU CANNOT ESCAPE_13: -700629776903885469
+      YOU CANNOT ESCAPE_14: -929874543384027062
+      YOU CANNOT ESCAPE_15: -1837375302307395181
+      YOU CANNOT ESCAPE_16: 6683066411704616411
+      YOU CANNOT ESCAPE_17: 7552785345442594447
+      YOU CANNOT ESCAPE_18: -8863725272130372761
+      YOU CANNOT ESCAPE_19: -7386521773946246301
+      YOU CANNOT ESCAPE_2: 7009943742352777255
+      YOU CANNOT ESCAPE_20: -8588398774432026346
+      YOU CANNOT ESCAPE_21: 8869255854659696873
+      YOU CANNOT ESCAPE_22: -2143385339031537281
+      YOU CANNOT ESCAPE_23: -8418997290318386930
+      YOU CANNOT ESCAPE_24: -1468649159084247469
+      YOU CANNOT ESCAPE_25: 3421310890476939000
+      YOU CANNOT ESCAPE_26: -3994349638010469664
+      YOU CANNOT ESCAPE_27: -2531081465875244938
+      YOU CANNOT ESCAPE_28: -6684265346897936496
+      YOU CANNOT ESCAPE_29: 6635012623321225075
+      YOU CANNOT ESCAPE_3: 848815139498051605
+      YOU CANNOT ESCAPE_30: -2153125420615293808
+      YOU CANNOT ESCAPE_31: -5920895317455627516
+      YOU CANNOT ESCAPE_32: 3651989327422468884
+      YOU CANNOT ESCAPE_33: -6102501714990757676
+      YOU CANNOT ESCAPE_34: -8405688321468371926
+      YOU CANNOT ESCAPE_35: 8914164392810680996
+      YOU CANNOT ESCAPE_36: -1868563351454052586
+      YOU CANNOT ESCAPE_37: 3445110747876581739
+      YOU CANNOT ESCAPE_38: -8247774815130760869
+      YOU CANNOT ESCAPE_39: -3774226144409864022
+      YOU CANNOT ESCAPE_4: -1455650606426424514
+      YOU CANNOT ESCAPE_40: 6132534902008307153
+      YOU CANNOT ESCAPE_41: 6089749546717639553
+      YOU CANNOT ESCAPE_42: -163701274736609317
+      YOU CANNOT ESCAPE_43: -8103960634322979865
+      YOU CANNOT ESCAPE_44: 2345504794479294644
+      YOU CANNOT ESCAPE_45: -5906870007169510508
+      YOU CANNOT ESCAPE_46: -2552833226280078796
+      YOU CANNOT ESCAPE_47: -8021984886240632645
+      YOU CANNOT ESCAPE_48: -8013158803222485320
+      YOU CANNOT ESCAPE_49: -576676235409863523
+      YOU CANNOT ESCAPE_5: 124491118904299242
+      YOU CANNOT ESCAPE_50: 6239054325142291714
+      YOU CANNOT ESCAPE_51: 3928299634837356532
+      YOU CANNOT ESCAPE_52: -2725596267441786329
+      YOU CANNOT ESCAPE_53: -7970944932126306028
+      YOU CANNOT ESCAPE_54: 7186414179765235141
+      YOU CANNOT ESCAPE_55: 6424394558899592743
+      YOU CANNOT ESCAPE_56: -5158853844709162887
+      YOU CANNOT ESCAPE_57: -1830680718405435886
+      YOU CANNOT ESCAPE_58: 6546885152495124209
+      YOU CANNOT ESCAPE_59: -7454606139336472329
+      YOU CANNOT ESCAPE_6: 4763954023053605921
+      YOU CANNOT ESCAPE_60: 952844769295118062
+      YOU CANNOT ESCAPE_61: 3752204660755664103
+      YOU CANNOT ESCAPE_62: -8071090900952413627
+      YOU CANNOT ESCAPE_63: -7473714390666266937
+      YOU CANNOT ESCAPE_64: 4650611379374048956
+      YOU CANNOT ESCAPE_65: 6826914406241617106
+      YOU CANNOT ESCAPE_66: -897800419788554640
+      YOU CANNOT ESCAPE_67: -8867773887779404907
+      YOU CANNOT ESCAPE_68: 7808220806587729796
+      YOU CANNOT ESCAPE_69: -3350729690124771945
+      YOU CANNOT ESCAPE_7: -2743214631641591937
+      YOU CANNOT ESCAPE_70: -6084004499856117157
+      YOU CANNOT ESCAPE_71: -4676815848544884263
+      YOU CANNOT ESCAPE_72: -1605232881340249492
+      YOU CANNOT ESCAPE_73: -1164193711202203980
+      YOU CANNOT ESCAPE_74: -7734734835388485828
+      YOU CANNOT ESCAPE_75: 522461404517476383
+      YOU CANNOT ESCAPE_76: -5060301016940423845
+      YOU CANNOT ESCAPE_77: 1619910149519453832
+      YOU CANNOT ESCAPE_78: 1321056128683985584
+      YOU CANNOT ESCAPE_79: -413797543069206307
+      YOU CANNOT ESCAPE_8: 7997556009160052083
+      YOU CANNOT ESCAPE_80: -5078698341129510029
+      YOU CANNOT ESCAPE_81: -7330383893181585103
+      YOU CANNOT ESCAPE_82: -1660641935454480513
+      YOU CANNOT ESCAPE_83: 1524720054515509802
+      YOU CANNOT ESCAPE_84: 8116317220648261410
+      YOU CANNOT ESCAPE_85: -1805514844492873013
+      YOU CANNOT ESCAPE_86: 8527490227073786371
+      YOU CANNOT ESCAPE_87: -8536823396527302348
+      YOU CANNOT ESCAPE_88: 8139706541400785901
+      YOU CANNOT ESCAPE_89: 3707699292868072354
+      YOU CANNOT ESCAPE_9: -1625132871430150050
+      YOU CANNOT ESCAPE_90: -1414900677395724190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

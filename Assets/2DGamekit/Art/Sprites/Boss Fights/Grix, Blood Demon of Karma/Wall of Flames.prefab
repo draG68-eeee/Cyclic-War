@@ -120,7 +120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isHitboxActive: 0
-  damageValue: 3
+  damageValue: 8
   energyGauge: {fileID: 0}
   energyGaugeUI: {fileID: 0}
 --- !u!61 &6155814766184008498

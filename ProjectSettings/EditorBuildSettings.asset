@@ -35,6 +35,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Ending 1 scene.unity
+    guid: 3c310131af42c4faaac136a350cd7793
+  - enabled: 1
+    path: Assets/Ending 2 scene.unity
+    guid: e26369bf3fe314e58a3f45845c8288d1
   - enabled: 0
     path: Assets/NewScene.unity
     guid: a341347ecfade124f817cac8ea56a209

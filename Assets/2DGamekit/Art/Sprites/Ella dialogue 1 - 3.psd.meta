@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 19c1afd049ac4433c943f098ce8ed39e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6984425685823396866
+    second: Ella dialogue 1 - 3_0
+  - first:
+      213: -4169900410606287862
+    second: Ella dialogue 1 - 3_1
+  - first:
+      213: -2935525616621909918
+    second: Ella dialogue 1 - 3_2
+  - first:
+      213: 1145483073182268324
+    second: Ella dialogue 1 - 3_3
+  - first:
+      213: 6784505277048380344
+    second: Ella dialogue 1 - 3_4
+  - first:
+      213: 4996883392733942245
+    second: Ella dialogue 1 - 3_5
+  - first:
+      213: 446109223846846092
+    second: Ella dialogue 1 - 3_6
+  - first:
+      213: -6198025536134909441
+    second: Ella dialogue 1 - 3_7
+  - first:
+      213: 826769273352210524
+    second: Ella dialogue 1 - 3_8
+  - first:
+      213: 8424549508227462447
+    second: Ella dialogue 1 - 3_9
+  - first:
+      213: 3456823261078399429
+    second: Ella dialogue 1 - 3_10
+  - first:
+      213: 2293074707374681627
+    second: Ella dialogue 1 - 3_11
+  - first:
+      213: 623999867997411946
+    second: Ella dialogue 1 - 3_12
+  - first:
+      213: 5933777654223519705
+    second: Ella dialogue 1 - 3_13
+  - first:
+      213: 5970581935636313495
+    second: Ella dialogue 1 - 3_14
+  - first:
+      213: 3829057301646226915
+    second: Ella dialogue 1 - 3_15
+  - first:
+      213: -7024981563223868073
+    second: Ella dialogue 1 - 3_16
+  - first:
+      213: 4127225374317146418
+    second: Ella dialogue 1 - 3_17
+  - first:
+      213: 906641979627149187
+    second: Ella dialogue 1 - 3_18
+  - first:
+      213: 6751253182612655225
+    second: Ella dialogue 1 - 3_19
+  - first:
+      213: 7399191761284938636
+    second: Ella dialogue 1 - 3_20
+  - first:
+      213: 2744354141506016564
+    second: Ella dialogue 1 - 3_21
+  - first:
+      213: 2045122835586962427
+    second: Ella dialogue 1 - 3_22
+  - first:
+      213: 2491193202181406302
+    second: Ella dialogue 1 - 3_23
+  - first:
+      213: 4870221314584089101
+    second: Ella dialogue 1 - 3_24
+  - first:
+      213: -7109392193991383494
+    second: Ella dialogue 1 - 3_25
+  - first:
+      213: 3341159290138658419
+    second: Ella dialogue 1 - 3_26
+  - first:
+      213: 9004494664644668455
+    second: Ella dialogue 1 - 3_27
+  - first:
+      213: 1969465696323335218
+    second: Ella dialogue 1 - 3_28
+  - first:
+      213: -4645532983224684800
+    second: Ella dialogue 1 - 3_29
+  - first:
+      213: -4396457046593882846
+    second: Ella dialogue 1 - 3_30
+  - first:
+      213: 5536975883384766174
+    second: Ella dialogue 1 - 3_31
+  - first:
+      213: 2405180332178952624
+    second: Ella dialogue 1 - 3_32
+  - first:
+      213: -1756988400131954857
+    second: Ella dialogue 1 - 3_33
+  - first:
+      213: -7098004723568494333
+    second: Ella dialogue 1 - 3_34
+  - first:
+      213: 3986682248270735781
+    second: Ella dialogue 1 - 3_35
+  - first:
+      213: -1699168400846886331
+    second: Ella dialogue 1 - 3_36
+  - first:
+      213: 7192486374930242267
+    second: Ella dialogue 1 - 3_37
+  - first:
+      213: 3691582568634437916
+    second: Ella dialogue 1 - 3_38
+  - first:
+      213: -2562412275178307000
+    second: Ella dialogue 1 - 3_39
+  - first:
+      213: -637806539495876467
+    second: Ella dialogue 1 - 3_40
+  - first:
+      213: 4975603450962219352
+    second: Ella dialogue 1 - 3_41
+  - first:
+      213: 6293455433909330342
+    second: Ella dialogue 1 - 3_42
+  - first:
+      213: 1195080320945249524
+    second: Ella dialogue 1 - 3_43
+  - first:
+      213: -8979072963815419670
+    second: Ella dialogue 1 - 3_44
+  - first:
+      213: 1851327978974823926
+    second: Ella dialogue 1 - 3_45
+  - first:
+      213: -7774471113533328948
+    second: Ella dialogue 1 - 3_46
+  - first:
+      213: 4989106835711705046
+    second: Ella dialogue 1 - 3_47
+  - first:
+      213: 2947368310084738022
+    second: Ella dialogue 1 - 3_48
+  - first:
+      213: 2944444412698530179
+    second: Ella dialogue 1 - 3_49
+  - first:
+      213: -1725243693967235169
+    second: Ella dialogue 1 - 3_50
+  - first:
+      213: -6932890772770850894
+    second: Ella dialogue 1 - 3_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 795
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c1e9bf72aade060800000000000000
+      internalID: 6984425685823396866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 797
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a048e0d6ba98126c0800000000000000
+      internalID: -4169900410606287862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 801
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2680138310be247d0800000000000000
+      internalID: -2935525616621909918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 796
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab704939c295ef00800000000000000
+      internalID: 1145483073182268324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 810
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb5b378a97672e50800000000000000
+      internalID: 6784505277048380344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 802
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e194f798fe785540800000000000000
+      internalID: 4996883392733942245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 790
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e9a6ab9f5e03600800000000000000
+      internalID: 446109223846846092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 802
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f0e90d903cf9a0800000000000000
+      internalID: -6198025536134909441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 796
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58cd511646497b00800000000000000
+      internalID: 826769273352210524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 798
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f69e74230ae470800000000000000
+      internalID: 8424549508227462447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_10
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 846
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a2efd07a19ff20800000000000000
+      internalID: 3456823261078399429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 795
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e20801c43a2df10800000000000000
+      internalID: 2293074707374681627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 792
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a50e7e294e8a800800000000000000
+      internalID: 623999867997411946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 790
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb4288653095250800000000000000
+      internalID: 5933777654223519705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 795
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79577ff03a4cbd250800000000000000
+      internalID: 5970581935636313495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_15
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 785
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e53d31245b832530800000000000000
+      internalID: 3829057301646226915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_16
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 793
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d7f5afc70428e90800000000000000
+      internalID: -7024981563223868073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_17
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 830
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231f6286c99d64930800000000000000
+      internalID: 4127225374317146418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_18
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 783
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387122ea31a059c00800000000000000
+      internalID: 906641979627149187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 811
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c4a5afff441bd50800000000000000
+      internalID: 6751253182612655225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_20
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 795
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bb26c44b53fa660800000000000000
+      internalID: 7399191761284938636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_21
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 795
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435965e2d87e51620800000000000000
+      internalID: 2744354141506016564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 780
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf35339226cb16c10800000000000000
+      internalID: 2045122835586962427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_23
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 799
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ef3eab40f729220800000000000000
+      internalID: 2491193202181406302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 702
+        width: 106
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0212596b70869340800000000000000
+      internalID: 4870221314584089101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 711
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36653c777d565d90800000000000000
+      internalID: -7109392193991383494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 703
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37606b21cae2e5e20800000000000000
+      internalID: 3341159290138658419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 707
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cab0c803466fc70800000000000000
+      internalID: 9004494664644668455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 694
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2347baabd92f45b10800000000000000
+      internalID: 1969465696323335218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_29
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 708
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f28866d50c78fb0800000000000000
+      internalID: -4645532983224684800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 723
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225328b0c95acf2c0800000000000000
+      internalID: -4396457046593882846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_31
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 695
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edebd03da3a47dc40800000000000000
+      internalID: 5536975883384766174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 709
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b15848d4cae06120800000000000000
+      internalID: 2405180332178952624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_33
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 701
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75727a7eb5ced97e0800000000000000
+      internalID: -1756988400131954857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_34
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 698
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309b7ad8f42de7d90800000000000000
+      internalID: -7098004723568494333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_35
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 697
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a96888e16a835730800000000000000
+      internalID: 3986682248270735781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_36
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 685
+        width: 28
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ae3fd87575b68e0800000000000000
+      internalID: -1699168400846886331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_37
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 745
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdadd852048d0d360800000000000000
+      internalID: 7192486374930242267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 616
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11da7e89c22b3330800000000000000
+      internalID: 3691582568634437916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 690
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84285e9ac9b707cd0800000000000000
+      internalID: -2562412275178307000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_40
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 680
+        width: 12
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d885de1e45e0627f0800000000000000
+      internalID: -637806539495876467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_41
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 674
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8519fcd0af4ec0540800000000000000
+      internalID: 4975603450962219352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_42
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 614
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1eaeb7f58d65750800000000000000
+      internalID: 6293455433909330342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 611
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc50085837c59010800000000000000
+      internalID: 1195080320945249524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 601
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0d77b66bce36380800000000000000
+      internalID: -8979072963815419670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 604
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f54985fcfc31b910800000000000000
+      internalID: 1851327978974823926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_46
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 612
+        width: 13
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc17f4196b78b1490800000000000000
+      internalID: -7774471113533328948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 610
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfb111db3edc3540800000000000000
+      internalID: 4989106835711705046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 595
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb18d8bcd727e820800000000000000
+      internalID: 2947368310084738022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_49
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 600
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38197cfc794ccd820800000000000000
+      internalID: 2944444412698530179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_50
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 597
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97a9164004be08e0800000000000000
+      internalID: -1725243693967235169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ella dialogue 1 - 3_51
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 580
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7f86ef29c69cf90800000000000000
+      internalID: -6932890772770850894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ella dialogue 1 - 3_0: 6984425685823396866
+      Ella dialogue 1 - 3_1: -4169900410606287862
+      Ella dialogue 1 - 3_10: 3456823261078399429
+      Ella dialogue 1 - 3_11: 2293074707374681627
+      Ella dialogue 1 - 3_12: 623999867997411946
+      Ella dialogue 1 - 3_13: 5933777654223519705
+      Ella dialogue 1 - 3_14: 5970581935636313495
+      Ella dialogue 1 - 3_15: 3829057301646226915
+      Ella dialogue 1 - 3_16: -7024981563223868073
+      Ella dialogue 1 - 3_17: 4127225374317146418
+      Ella dialogue 1 - 3_18: 906641979627149187
+      Ella dialogue 1 - 3_19: 6751253182612655225
+      Ella dialogue 1 - 3_2: -2935525616621909918
+      Ella dialogue 1 - 3_20: 7399191761284938636
+      Ella dialogue 1 - 3_21: 2744354141506016564
+      Ella dialogue 1 - 3_22: 2045122835586962427
+      Ella dialogue 1 - 3_23: 2491193202181406302
+      Ella dialogue 1 - 3_24: 4870221314584089101
+      Ella dialogue 1 - 3_25: -7109392193991383494
+      Ella dialogue 1 - 3_26: 3341159290138658419
+      Ella dialogue 1 - 3_27: 9004494664644668455
+      Ella dialogue 1 - 3_28: 1969465696323335218
+      Ella dialogue 1 - 3_29: -4645532983224684800
+      Ella dialogue 1 - 3_3: 1145483073182268324
+      Ella dialogue 1 - 3_30: -4396457046593882846
+      Ella dialogue 1 - 3_31: 5536975883384766174
+      Ella dialogue 1 - 3_32: 2405180332178952624
+      Ella dialogue 1 - 3_33: -1756988400131954857
+      Ella dialogue 1 - 3_34: -7098004723568494333
+      Ella dialogue 1 - 3_35: 3986682248270735781
+      Ella dialogue 1 - 3_36: -1699168400846886331
+      Ella dialogue 1 - 3_37: 7192486374930242267
+      Ella dialogue 1 - 3_38: 3691582568634437916
+      Ella dialogue 1 - 3_39: -2562412275178307000
+      Ella dialogue 1 - 3_4: 6784505277048380344
+      Ella dialogue 1 - 3_40: -637806539495876467
+      Ella dialogue 1 - 3_41: 4975603450962219352
+      Ella dialogue 1 - 3_42: 6293455433909330342
+      Ella dialogue 1 - 3_43: 1195080320945249524
+      Ella dialogue 1 - 3_44: -8979072963815419670
+      Ella dialogue 1 - 3_45: 1851327978974823926
+      Ella dialogue 1 - 3_46: -7774471113533328948
+      Ella dialogue 1 - 3_47: 4989106835711705046
+      Ella dialogue 1 - 3_48: 2947368310084738022
+      Ella dialogue 1 - 3_49: 2944444412698530179
+      Ella dialogue 1 - 3_5: 4996883392733942245
+      Ella dialogue 1 - 3_50: -1725243693967235169
+      Ella dialogue 1 - 3_51: -6932890772770850894
+      Ella dialogue 1 - 3_6: 446109223846846092
+      Ella dialogue 1 - 3_7: -6198025536134909441
+      Ella dialogue 1 - 3_8: 826769273352210524
+      Ella dialogue 1 - 3_9: 8424549508227462447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

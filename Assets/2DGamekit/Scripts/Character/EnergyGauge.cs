@@ -12,6 +12,9 @@ public class EnergyGauge : MonoBehaviour
     public Damager damager;
     public Sprite defaultGauge;
     private RectTransform rectTransform;
+    public GameObject parryEffectR;
+    public GameObject parryEffectL;
+    public SpriteRenderer player;
 
     void Start()
     {
@@ -74,6 +77,22 @@ public class EnergyGauge : MonoBehaviour
         energy += value;
         energy = Mathf.Clamp(energy, 0, 100);
         UpdateGauge(); // update visuals after change
+        if (player.flipX == false)
+        {
+            StartCoroutine(HandleParry(parryEffectR));
+        }
+        else
+        {
+            StartCoroutine(HandleParry(parryEffectL));
+        }
+
+    }
+
+    IEnumerator HandleParry(GameObject parry)
+    {
+        parry.SetActive(true);
+        yield return new WaitForSeconds(0.3f);
+        parry.SetActive(false);
     }
 
     public float GetDamageMultiplier()

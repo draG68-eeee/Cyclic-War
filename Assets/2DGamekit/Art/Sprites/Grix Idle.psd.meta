@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grix Idle_0: 5790135275619080902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem Knight Right Lateral Swing Windup 1_0: -3255223977079011174
+      Golem Knight Right Lateral Swing Windup 1_1: -4869171944840071416
+      Golem Knight Right Lateral Swing Windup 1_2: -8550600356989089634
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grix 4 hit Scythe Combo 8_0: -921379283564498609
+      Grix 4 hit Scythe Combo 8_1: 255132060421860418
+      Grix 4 hit Scythe Combo 8_2: -310551373594387775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

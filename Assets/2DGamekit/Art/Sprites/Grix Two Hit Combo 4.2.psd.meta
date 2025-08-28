@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grix Two Hit Combo 4.2_0: -7792443291744850116
+      Grix Two Hit Combo 4.2_1: -6637773185545734468
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

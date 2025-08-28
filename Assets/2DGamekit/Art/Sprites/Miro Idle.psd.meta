@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Miro Idle_0: 8164303776634128894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

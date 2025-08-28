@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem Knight Right Overhead Smash Windup_0: 6825256659979383472
+      Golem Knight Right Overhead Smash Windup_1: 4586940173339933446
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

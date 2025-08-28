@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem Knight Finisher_0: 3826897807641040380
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

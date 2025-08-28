@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: ff52f2d5692414b22bf7d26ab275be5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -809726805884173816
+    second: Alle Intro cutscene 1_0
+  - first:
+      213: 8310001668211495884
+    second: Alle Intro cutscene 1_1
+  - first:
+      213: -8101194728627901488
+    second: Alle Intro cutscene 1_2
+  - first:
+      213: 5352504963516237607
+    second: Alle Intro cutscene 1_3
+  - first:
+      213: 8066967115756569360
+    second: Alle Intro cutscene 1_4
+  - first:
+      213: 2463821186715250927
+    second: Alle Intro cutscene 1_5
+  - first:
+      213: 1311504145150138967
+    second: Alle Intro cutscene 1_6
+  - first:
+      213: 5912499399099746927
+    second: Alle Intro cutscene 1_7
+  - first:
+      213: -4489068939004280024
+    second: Alle Intro cutscene 1_8
+  - first:
+      213: -7927837459375015438
+    second: Alle Intro cutscene 1_9
+  - first:
+      213: -4320639635651831415
+    second: Alle Intro cutscene 1_10
+  - first:
+      213: 248013465668497422
+    second: Alle Intro cutscene 1_11
+  - first:
+      213: -1319316784691180044
+    second: Alle Intro cutscene 1_12
+  - first:
+      213: 6589207261603237085
+    second: Alle Intro cutscene 1_13
+  - first:
+      213: -6292842245121970551
+    second: Alle Intro cutscene 1_14
+  - first:
+      213: -2268665558648575287
+    second: Alle Intro cutscene 1_15
+  - first:
+      213: 5047660220517790105
+    second: Alle Intro cutscene 1_16
+  - first:
+      213: 2213543681190788633
+    second: Alle Intro cutscene 1_17
+  - first:
+      213: 591893620579399429
+    second: Alle Intro cutscene 1_18
+  - first:
+      213: -6822831353482171573
+    second: Alle Intro cutscene 1_19
+  - first:
+      213: -5397891222033792086
+    second: Alle Intro cutscene 1_20
+  - first:
+      213: -1712767473312467828
+    second: Alle Intro cutscene 1_21
+  - first:
+      213: -7075076161359762494
+    second: Alle Intro cutscene 1_22
+  - first:
+      213: -5756622729408563661
+    second: Alle Intro cutscene 1_23
+  - first:
+      213: 5555555950649632576
+    second: Alle Intro cutscene 1_24
+  - first:
+      213: 1360023825856701558
+    second: Alle Intro cutscene 1_25
+  - first:
+      213: 4008456309903267803
+    second: Alle Intro cutscene 1_26
+  - first:
+      213: -7063508797277111595
+    second: Alle Intro cutscene 1_27
+  - first:
+      213: -1406781682898634785
+    second: Alle Intro cutscene 1_28
+  - first:
+      213: -8402498299075490920
+    second: Alle Intro cutscene 1_29
+  - first:
+      213: 4658856863401260134
+    second: Alle Intro cutscene 1_30
+  - first:
+      213: -523697979319329934
+    second: Alle Intro cutscene 1_31
+  - first:
+      213: -8977956839551973538
+    second: Alle Intro cutscene 1_32
+  - first:
+      213: -9153529982432937628
+    second: Alle Intro cutscene 1_33
+  - first:
+      213: -1518578644249919627
+    second: Alle Intro cutscene 1_34
+  - first:
+      213: -4628931445890463136
+    second: Alle Intro cutscene 1_35
+  - first:
+      213: 462734550671192176
+    second: Alle Intro cutscene 1_36
+  - first:
+      213: -3944185097736326734
+    second: Alle Intro cutscene 1_37
+  - first:
+      213: -7196574275666794337
+    second: Alle Intro cutscene 1_38
+  - first:
+      213: -5178372117112193494
+    second: Alle Intro cutscene 1_39
+  - first:
+      213: 3255546772109138310
+    second: Alle Intro cutscene 1_40
+  - first:
+      213: -6458341908189295901
+    second: Alle Intro cutscene 1_41
+  - first:
+      213: -7390485287137778461
+    second: Alle Intro cutscene 1_42
+  - first:
+      213: 2000725342908640019
+    second: Alle Intro cutscene 1_43
+  - first:
+      213: -6067434921657117867
+    second: Alle Intro cutscene 1_44
+  - first:
+      213: 2776800339179844521
+    second: Alle Intro cutscene 1_45
+  - first:
+      213: -3529988832584636733
+    second: Alle Intro cutscene 1_46
+  - first:
+      213: -9197040809034911027
+    second: Alle Intro cutscene 1_47
+  - first:
+      213: -7008226408904648691
+    second: Alle Intro cutscene 1_48
+  - first:
+      213: 1885399871228873796
+    second: Alle Intro cutscene 1_49
+  - first:
+      213: 1356036372497670285
+    second: Alle Intro cutscene 1_50
+  - first:
+      213: -4519182697047937767
+    second: Alle Intro cutscene 1_51
+  - first:
+      213: -4491265044523887962
+    second: Alle Intro cutscene 1_52
+  - first:
+      213: -5699147735767663911
+    second: Alle Intro cutscene 1_53
+  - first:
+      213: 4392803182372885343
+    second: Alle Intro cutscene 1_54
+  - first:
+      213: 3400491147474463827
+    second: Alle Intro cutscene 1_55
+  - first:
+      213: -7244545623303091352
+    second: Alle Intro cutscene 1_56
+  - first:
+      213: -4240486154540405908
+    second: Alle Intro cutscene 1_57
+  - first:
+      213: -57512676580651003
+    second: Alle Intro cutscene 1_58
+  - first:
+      213: 7226746063302158545
+    second: Alle Intro cutscene 1_59
+  - first:
+      213: 2373104042809112928
+    second: Alle Intro cutscene 1_60
+  - first:
+      213: -9046904149272632119
+    second: Alle Intro cutscene 1_61
+  - first:
+      213: -100884895745478484
+    second: Alle Intro cutscene 1_62
+  - first:
+      213: 2869942604325102513
+    second: Alle Intro cutscene 1_63
+  - first:
+      213: 9180866461791643417
+    second: Alle Intro cutscene 1_64
+  - first:
+      213: 471642294612854236
+    second: Alle Intro cutscene 1_65
+  - first:
+      213: -292570824592324733
+    second: Alle Intro cutscene 1_66
+  - first:
+      213: -2888667649494180925
+    second: Alle Intro cutscene 1_67
+  - first:
+      213: -5638313633901026816
+    second: Alle Intro cutscene 1_68
+  - first:
+      213: 2790191806080164866
+    second: Alle Intro cutscene 1_69
+  - first:
+      213: 1285299865916283646
+    second: Alle Intro cutscene 1_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 646
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802892a92c543c4f0800000000000000
+      internalID: -809726805884173816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 638
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc356ac2d7e035370800000000000000
+      internalID: 8310001668211495884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 640
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbedd7f056c29f80800000000000000
+      internalID: -8101194728627901488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 631
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72786e0d7eae74a40800000000000000
+      internalID: 5352504963516237607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 640
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0138d65e9df93ff60800000000000000
+      internalID: 8066967115756569360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 646
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe07e30c050413220800000000000000
+      internalID: 2463821186715250927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 642
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a50254216633210800000000000000
+      internalID: 1311504145150138967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 680
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a0d02b0ea6d0250800000000000000
+      internalID: 5912499399099746927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 641
+        width: 12
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8230966859f93b1c0800000000000000
+      internalID: -4489068939004280024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_9
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 637
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9baec85d9aaf190800000000000000
+      internalID: -7927837459375015438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 644
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989df72a4210a04c0800000000000000
+      internalID: -4320639635651831415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 645
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e003fa8deee117300800000000000000
+      internalID: 248013465668497422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 641
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd8546df58d0bde0800000000000000
+      internalID: -1319316784691180044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 630
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc0943e711917b50800000000000000
+      internalID: 6589207261603237085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 616
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eeee7a1555ba8a0800000000000000
+      internalID: -6292842245121970551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_15
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 609
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caa69eb1b41480e0800000000000000
+      internalID: -2268665558648575287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_16
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 591
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99135d61a34ec0640800000000000000
+      internalID: 5047660220517790105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_17
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 602
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eff2c004618be10800000000000000
+      internalID: 2213543681190788633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 556
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5077477ac14d63800800000000000000
+      internalID: 591893620579399429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 551
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b2c4d680f6051a0800000000000000
+      internalID: -6822831353482171573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 589
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa30a766886d615b0800000000000000
+      internalID: -5397891222033792086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 551
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84fd52ce070b38e0800000000000000
+      internalID: -1712767473312467828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 543
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb215377b740dd90800000000000000
+      internalID: -7075076161359762494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 524
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336b9a3a02e5c10b0800000000000000
+      internalID: -5756622729408563661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 529
+        width: 16
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0476748d3bc491d40800000000000000
+      internalID: 5555555950649632576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 519
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674a142c676cfd210800000000000000
+      internalID: 1360023825856701558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 546
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd71571b6c5e0a730800000000000000
+      internalID: 4008456309903267803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 548
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da73764c2069fd90800000000000000
+      internalID: -7063508797277111595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 536
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7fc4a438b1a7ce0800000000000000
+      internalID: -1406781682898634785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 538
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b08c9b054546b80800000000000000
+      internalID: -8402498299075490920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_30
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 537
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6643c6232a597a040800000000000000
+      internalID: 4658856863401260134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 527
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bd41566737bb8f0800000000000000
+      internalID: -523697979319329934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_32
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 521
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5747b952d3e76380800000000000000
+      internalID: -8977956839551973538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_33
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 524
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469723c7af028f080800000000000000
+      internalID: -9153529982432937628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_34
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 520
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f3df1d4cceceae0800000000000000
+      internalID: -1518578644249919627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_35
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 522
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a4016006bb2cfb0800000000000000
+      internalID: -4628931445890463136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_36
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 501
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0707e064f96fb6600800000000000000
+      internalID: 462734550671192176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 455
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b179010d807349c0800000000000000
+      internalID: -3944185097736326734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 452
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98aa2b43d1a02c90800000000000000
+      internalID: -7196574275666794337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 438
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7db4eef9b228b0800000000000000
+      internalID: -5178372117112193494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_40
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 507
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6891c356a860e2d20800000000000000
+      internalID: 3255546772109138310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_41
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 501
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eacb54904c5f56a0800000000000000
+      internalID: -6458341908189295901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 445
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4e66ea9c8bf6990800000000000000
+      internalID: -7390485287137778461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 454
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31be03d591104cb10800000000000000
+      internalID: 2000725342908640019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_44
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 457
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553d3dcd5142ccba0800000000000000
+      internalID: -6067434921657117867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 447
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3bff4423d298620800000000000000
+      internalID: 2776800339179844521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_46
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 443
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c662b40cd5f20fc0800000000000000
+      internalID: -3529988832584636733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_47
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 437
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2f3b8bc1c8d5080800000000000000
+      internalID: -9197040809034911027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_48
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 436
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d081ab75637cdbe90800000000000000
+      internalID: -7008226408904648691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_49
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 442
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c0a2091394a2a10800000000000000
+      internalID: 1885399871228873796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_50
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 445
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80ab3d65eb91d210800000000000000
+      internalID: 1356036372497670285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_51
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 424
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dad5bd743a841c0800000000000000
+      internalID: -4519182697047937767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_52
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 419
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2560ddc32dba1c0800000000000000
+      internalID: -4491265044523887962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 379
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab817645f88e0b0800000000000000
+      internalID: -5699147735767663911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_54
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 353
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f539a85683f56fc30800000000000000
+      internalID: 4392803182372885343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_55
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 363
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c631b9ea8f03f20800000000000000
+      internalID: 3400491147474463827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_56
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 372
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b88eb8324367b90800000000000000
+      internalID: -7244545623303091352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_57
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 368
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b28ab3f44c625c0800000000000000
+      internalID: -4240486154540405908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_58
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 369
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500145e768ca33ff0800000000000000
+      internalID: -57512676580651003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_59
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 359
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8e311714f8a4460800000000000000
+      internalID: 7226746063302158545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_60
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 368
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0693eaebd85fee020800000000000000
+      internalID: 2373104042809112928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_61
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 412
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4e899db90f27280800000000000000
+      internalID: -9046904149272632119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_62
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 362
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca073e9c8b5999ef0800000000000000
+      internalID: -100884895745478484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 346
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3ae80d79514d720800000000000000
+      internalID: 2869942604325102513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_64
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 363
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9176369976df86f70800000000000000
+      internalID: 9180866461791643417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_65
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 346
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd503770b2c9b8600800000000000000
+      internalID: 471642294612854236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_66
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 352
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870888926490fbf0800000000000000
+      internalID: -292570824592324733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_67
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 369
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb9cbdd31469e7d0800000000000000
+      internalID: -2888667649494180925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_68
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 364
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002661f7f9fa0c1b0800000000000000
+      internalID: -5638313633901026816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_69
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 350
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2042d902aa0c8b620800000000000000
+      internalID: 2790191806080164866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alle Intro cutscene 1_70
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 333
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa1cc11b6d46d110800000000000000
+      internalID: 1285299865916283646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alle Intro cutscene 1_0: -809726805884173816
+      Alle Intro cutscene 1_1: 8310001668211495884
+      Alle Intro cutscene 1_10: -4320639635651831415
+      Alle Intro cutscene 1_11: 248013465668497422
+      Alle Intro cutscene 1_12: -1319316784691180044
+      Alle Intro cutscene 1_13: 6589207261603237085
+      Alle Intro cutscene 1_14: -6292842245121970551
+      Alle Intro cutscene 1_15: -2268665558648575287
+      Alle Intro cutscene 1_16: 5047660220517790105
+      Alle Intro cutscene 1_17: 2213543681190788633
+      Alle Intro cutscene 1_18: 591893620579399429
+      Alle Intro cutscene 1_19: -6822831353482171573
+      Alle Intro cutscene 1_2: -8101194728627901488
+      Alle Intro cutscene 1_20: -5397891222033792086
+      Alle Intro cutscene 1_21: -1712767473312467828
+      Alle Intro cutscene 1_22: -7075076161359762494
+      Alle Intro cutscene 1_23: -5756622729408563661
+      Alle Intro cutscene 1_24: 5555555950649632576
+      Alle Intro cutscene 1_25: 1360023825856701558
+      Alle Intro cutscene 1_26: 4008456309903267803
+      Alle Intro cutscene 1_27: -7063508797277111595
+      Alle Intro cutscene 1_28: -1406781682898634785
+      Alle Intro cutscene 1_29: -8402498299075490920
+      Alle Intro cutscene 1_3: 5352504963516237607
+      Alle Intro cutscene 1_30: 4658856863401260134
+      Alle Intro cutscene 1_31: -523697979319329934
+      Alle Intro cutscene 1_32: -8977956839551973538
+      Alle Intro cutscene 1_33: -9153529982432937628
+      Alle Intro cutscene 1_34: -1518578644249919627
+      Alle Intro cutscene 1_35: -4628931445890463136
+      Alle Intro cutscene 1_36: 462734550671192176
+      Alle Intro cutscene 1_37: -3944185097736326734
+      Alle Intro cutscene 1_38: -7196574275666794337
+      Alle Intro cutscene 1_39: -5178372117112193494
+      Alle Intro cutscene 1_4: 8066967115756569360
+      Alle Intro cutscene 1_40: 3255546772109138310
+      Alle Intro cutscene 1_41: -6458341908189295901
+      Alle Intro cutscene 1_42: -7390485287137778461
+      Alle Intro cutscene 1_43: 2000725342908640019
+      Alle Intro cutscene 1_44: -6067434921657117867
+      Alle Intro cutscene 1_45: 2776800339179844521
+      Alle Intro cutscene 1_46: -3529988832584636733
+      Alle Intro cutscene 1_47: -9197040809034911027
+      Alle Intro cutscene 1_48: -7008226408904648691
+      Alle Intro cutscene 1_49: 1885399871228873796
+      Alle Intro cutscene 1_5: 2463821186715250927
+      Alle Intro cutscene 1_50: 1356036372497670285
+      Alle Intro cutscene 1_51: -4519182697047937767
+      Alle Intro cutscene 1_52: -4491265044523887962
+      Alle Intro cutscene 1_53: -5699147735767663911
+      Alle Intro cutscene 1_54: 4392803182372885343
+      Alle Intro cutscene 1_55: 3400491147474463827
+      Alle Intro cutscene 1_56: -7244545623303091352
+      Alle Intro cutscene 1_57: -4240486154540405908
+      Alle Intro cutscene 1_58: -57512676580651003
+      Alle Intro cutscene 1_59: 7226746063302158545
+      Alle Intro cutscene 1_6: 1311504145150138967
+      Alle Intro cutscene 1_60: 2373104042809112928
+      Alle Intro cutscene 1_61: -9046904149272632119
+      Alle Intro cutscene 1_62: -100884895745478484
+      Alle Intro cutscene 1_63: 2869942604325102513
+      Alle Intro cutscene 1_64: 9180866461791643417
+      Alle Intro cutscene 1_65: 471642294612854236
+      Alle Intro cutscene 1_66: -292570824592324733
+      Alle Intro cutscene 1_67: -2888667649494180925
+      Alle Intro cutscene 1_68: -5638313633901026816
+      Alle Intro cutscene 1_69: 2790191806080164866
+      Alle Intro cutscene 1_7: 5912499399099746927
+      Alle Intro cutscene 1_70: 1285299865916283646
+      Alle Intro cutscene 1_8: -4489068939004280024
+      Alle Intro cutscene 1_9: -7927837459375015438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

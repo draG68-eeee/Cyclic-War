@@ -2,9 +2,16 @@ using UnityEngine;
 using System.Collections;
 using Gamekit2D;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 public class GrixAI : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public EllaQuestlineHandler ellaQuestlineHandler;
+    public GameObject Alle;
+    public GameObject TRUEFORMGRIX;
+    public EntityAI entityAI;
+    public Sprite ending2Dialogue;
+    public Sprite YOUCANNOTESCAPE;
     public Sprite[] cutscene;
     public Image specialDialogue;
     public Sprite idle;
@@ -65,6 +72,8 @@ public class GrixAI : MonoBehaviour
             musicPlayer.audioSource.clip = outro;
             musicPlayer.audioSource.Play();
             rb.linearVelocity = new Vector2(0, 1);
+            yield return new WaitForSeconds(20);
+            SceneManager.LoadScene("Ending 1 scene");
         }
     }
 
@@ -86,12 +95,41 @@ public class GrixAI : MonoBehaviour
             yield return new WaitUntil(() => !musicPlayer.IsPlaying());
             musicPlayer.PlayPhase1();
         }
+    
+    }
+
+    IEnumerator StartSecondEndingCutscene()
+    {
+        specialDialogue.gameObject.SetActive(true);
+        specialDialogue.sprite = ending2Dialogue;
+        yield return new WaitForSeconds(1);
+        specialDialogue.gameObject.SetActive(false);
+        yield return new WaitForSeconds(1);
+        Alle.SetActive(true);
+        Damageable alleBoss = Alle.GetComponent<Damageable>();
+        if (alleBoss)
+        {
+            yield return new WaitUntil(() => alleBoss.CurrentHealth <= 0);
+            specialDialogue.gameObject.SetActive(true);
+            specialDialogue.sprite = YOUCANNOTESCAPE;
+            yield return new WaitForSeconds(1);
+            specialDialogue.gameObject.SetActive(false);
+            yield return new WaitForSeconds(1);
+            StartCoroutine(entityAI.EntityBossAI());
+            
+        }
+        
 
     }
 
     IEnumerator BossAI()
     {
         yield return new WaitUntil(() => isAggro);
+        if (CheckpointManager.Instance.ellaQuestlinePhase == 4)
+        {
+            yield return StartSecondEndingCutscene();
+            yield break;
+        }
         yield return StartCutscene();
         // updateHPBar.Enable();
         // if (musicPlayer != null)

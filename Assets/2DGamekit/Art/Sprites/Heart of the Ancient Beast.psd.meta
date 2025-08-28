@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Heart of the Ancient Beast_0: -5526479481642910220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
